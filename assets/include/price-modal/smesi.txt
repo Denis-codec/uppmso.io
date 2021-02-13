@@ -1,0 +1,99 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="myModal-smesi" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal-smesi-Label" aria-hidden="true">
+                <div class="modal-dialog-full">
+                    <div class="modal-content">
+                        <div class="modal-body">
+				         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				         <h4>Цены на сухие строительные смеси от  1 июля 2019 г.</h4><hr>
+						 <table class="table table-condensed table-bordered table-hover"> <!-- <table class="table table-bordered">  -->
+						 
+							<tr>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	Розничная цена<br>с НДС	</th>	</tr>
+							<tbody>										
+							<tr>	<td>	Наполнитель (песок) сухой	</td>	<td>	мешок 25 кг	</td>	<td>	81,13	</td>	</tr>
+							<tr>	<td>	Цемент м500	</td>	<td>	мешок 25 кг	</td>	<td>	161,63	</td>	</tr>
+							<tr>	<td>	С/с кладочная м75	</td>	<td>	мешок 25 кг	</td>	<td>	123,85	</td>	</tr>
+							<tr>	<td>	С/с кладочная м100	</td>	<td>	мешок 25 кг	</td>	<td>	126,30	</td>	</tr>
+							<tr>	<td>	С/с клеевая м150	</td>	<td>	мешок 25 кг	</td>	<td>	183,78	</td>	</tr>
+							<tr>	<td>	С/с штукатурная м75	</td>	<td>	мешок 25 кг	</td>	<td>	133,23	</td>	</tr>
+							<tr>	<td>	С/с штукатурная м150	</td>	<td>	мешок 25 кг	</td>	<td>	142,78	</td>	</tr>
+							<tr>	<td>	С/с стяжка полов м150	</td>	<td>	мешок 25 кг	</td>	<td>	143,13	</td>	</tr>
+							</tbody>										
+							</table>										
+										
+										
+	
+   						 <!-- <a class="btn btn-default btn" style="margin-top: 0px;" href="#" class="disabled target="blank"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp; Скачать прайс-лист &nbsp;&nbsp;&nbsp;</a><br>-->
+						 <br>	
+							<p style="line-height: 1.2; position: relative; padding: 0px 10px;">
+							АО «МСО» изготавливает высококачественные сухие строительные смеси, фасованные в бумажные пакеты для внутренних отделочных работ.<br><br>
+							Преимущество в применении наших смесей: стабильность состава, длительные сроки хранения, негорючесть, нетоксичность, 
+							низкая категория химической вредности, фасовка мешка по 25 кг.</p><br>
+							<p style="line-height: 1.4; position: relative; padding: 0px 10px; font-weight: 600;">Производится несколько видов смесей:<br><br>
+							Кладочная смесь, используется для кирпичной кладки, заделки бетонных стен, швов при монтаже для наружных и внутренних работ;<br><br>
+							Штукатурная смесь, используется для оштукатуривания вручную и механизированным способом стен и потолков 
+							внутри сухих и влажных помещений по кирпичу, бетону и т.п.;<br><br>
+							Клеевая смесь используется для укладки стеновой и напольной керамической и стеклянной плитки внутри помещений 
+							с нормальной и повышенной влажностью и наружной облицовки зданий выше цокольной части по бетонным, кирпичным основаниям, цементным, 
+							гипсовым штукатуркам.<br><br>
+							Смесь для стяжки полов используется для выравнивания поверхности пола в жилых и общественных помещениях под последующую укладку линолеума, 
+							ламината, паркета, керамической плитки и других напольных покрытий внутри сухих и влажных отапливаемых помещений в системе «Теплый пол»</p><br>
+							<p style="line-height: 1.2; position: relative; padding: 0px 10px;">Применяемые материалы:<br><br>
+							Цемент ПЦ-500-Д0<br>
+							Песок карьерный - Мкр.1,4<br>
+							Пластификаторы<br><br>
+							Качество сухой смеси подтверждается документом о качестве (паспортом).</p>
+                        
+						<div class="col-md-12 hidden-xs" style="background:#e7e7e7;position: relative; top: 30px;"></div>
+							<h2 style="color: #2f383d;  padding-top: 55px; font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;"   class="header-line hidden-xs">СОПУТСТВУЮЩИЕ УСЛУГИ</h2><BR><BR>		  
+							<div class="row flexed hidden-xs" style="margin: 0px;">
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel__pic">
+											<img src="assets/img/company/serv-pic1.jpg" alt="Продажа бетона">
+										</div>
+										<div class="pic-panel__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>БЕТОНА</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем бетонные смеси разного качества и в разных количествах для своих потребителей.</p><BR>
+										</div>
+									</div>	
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic2.jpg" alt="Продажа нерудных материалов">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>НЕРУДНЫХ МАТЕРИАЛОВ</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем нерудные материалы разного качества и в разных количествах для своих потребителей.</p><BR><BR>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic3.jpg" alt="Изготовление ЖБИ изделий по чертежам заказчика">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ИЗГОТОВЛЕНИЕ ЖБИ<br>ПО ЧЕРТEЖАМ ЗАКАЗЧИКА</p><hr>
+											<p style="line-height: 1.3;">Мы производим различные изделия по чертежам заказчика в соответствии с индивидуальными требованиями проекта. </p><BR>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+							<div class="modal-foot"><hr>
+								<button type="button" class="btn btn-default" data-dismiss="modal">&nbsp;&nbsp;&nbsp;Выйти&nbsp;&nbsp;&nbsp;</button>
+							   <!--  <button type="button" class="btn btn-primary">Save changes</button> -->
+							</div>
+					</div>
+					<!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog -->
+            </div>
+		</div>
+	</div>
+</div>
+		
+										

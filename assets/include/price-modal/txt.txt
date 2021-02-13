@@ -1,0 +1,138 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="myModal-txt" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal-txt-Label" aria-hidden="true">
+                <div class="modal-dialog-full">
+                    <div class="modal-content">
+                        <div class="modal-body">
+				         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				         <h4>Цены на железобетонные изделия от  01 мая 2018 г.</h4>
+						 <table class="table table-condensed table-bordered table-hover"> <!-- <table class="table table-bordered">  -->
+						 
+<tr>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	Цена<br>с НДС	</th>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	Цена<br>с НДС	</th>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	Цена<br>с НДС	</th>	</tr>
+<tbody>																												
+<tr class="success">	<td colspan="9" style="text-align: center;">	Плиты перекрытия (ГОСТ 9561-91) шт 																									</td>	</tr>
+<tr>	<td>	ПК 18.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 18.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 18.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 19.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 19.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 19.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 20.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 20.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 20.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 21.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 21.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 21.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 22.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 22.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 22.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 23.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 23.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 23.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 24.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 24.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 24.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 25.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 25.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 25.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 26.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 26.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 26.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 27.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 27.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 27.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 28.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 28.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 28.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 29.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 29.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 29.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 30.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 30.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 30.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 31.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 31.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 31.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 32.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 32.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 32.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 33.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 33.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 33.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 34.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 34.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 34.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 35.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 35.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 35.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 36.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 36.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 36.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 37.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 37.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 37.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 38.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 38.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 38.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 39.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 39.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 39.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 40.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 40.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 40.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 41.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 41.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 41.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 42.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 42.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 42.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 43.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 43.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 43.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 44.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 44.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 44.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 45.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 45.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 45.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 46.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 46.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 46.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 47.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 47.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 47.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 48.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 48.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 48.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 49.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 49.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 49.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 50.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 50.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 50.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 51.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 51.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 51.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 52.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 52.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 52.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 53.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 53.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 53.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 54.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 54.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 54.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 55.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 55.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 55.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 56.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 56.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 56.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 57.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 57.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 57.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 58.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 58.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 58.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 59.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 59.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 59.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 60.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 60.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 60.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 61.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 61.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 61.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 62.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 62.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 62.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 63.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 63.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 63.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 64.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 64.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 64.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 65.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 65.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 65.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 66.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 66.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 66.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 67.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 67.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 67.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 68.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 68.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 68.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 69.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 69.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 69.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 70.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 70.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 70.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 71.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 71.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 71.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+<tr>	<td>	ПК 72.10-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 72.12-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	<td>	ПК 72.15-8т	</td>	<td>	шт	</td>	<td>	по запросу	</td>	</tr>
+</tbody>																												
+</table>																												
+													
+																											
+																											
+
+   						 <a class="btn btn-default btn" style="margin-top: 0px;" href="#" class="disabled target="blank"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp; Скачать прайс-лист &nbsp;&nbsp;&nbsp;</a>
+     					 <hr>
+							<p style="line-height: 1.2">
+							ОАО "МСО" — один из ведущих производителей качественных бетонных и железобетонных изделий в Удмуртской Республике. 
+							Команда высококвалифицированных специалистов, мощная производственная база, 
+							передовые технологии - все это позволяет качественно и в срок удовлетворять любые потребности строителей не только Удмуртии, 
+							но и других регионов России.<br><br>
+							В нашем арсенале огромный перечень выпускаемой продукции. 
+							Помимо изделий серийного производства технологическая база предприятия позволяет выполнять индивидуальные заказы на продукцию по чертежам заказчика.<br><br> 
+							Качество всех изделий, гарантировано собственной сертифицированной лабораторией.<br><br><br></p>
+							<div class="p-3 mb-2 bg-info text-white text-center">* в зависимости от объема заказа и условий предоплаты возможны скидки !!!</div><br>
+							
+							<!-- <div class="row contctform">
+        <div class="col-md-8 col-md-offset-2">
+          <h4 style="font-size: 14px; text-align: center ;  padding-top: 10px; line-height: 1.4;">Запрос цен на железобетонные изделия</h4><br>
+        </div>
+	<div class="col-md-8 col-md-offset-2">
+   
+    
+    <form role="form" id="contactForm" data-toggle="validator" class="shake">
+        <div class="row">
+            <div class="form-group col-sm-6">
+              
+                <input type="text" class="form-control" id="name" placeholder="Введите Ваше имя" required>
+                <div class="help-block with-errors"></div>
+            </div>
+            <div class="form-group col-sm-6">
+                
+                <input type="email" class="form-control" id="email" placeholder="Введите email адрес" required>
+                <div class="help-block with-errors"></div>
+            </div>
+        </div>
+        <div class="form-group">
+           
+            <textarea id="message" class="form-control" rows="5" placeholder="Введите ваше сообщение и контактные данные для связи" required></textarea>
+            <div class="help-block with-errors"></div>
+        </div>
+        <button type="submit" id="form-submit" class="btn btn-default pull-right">&nbsp;&nbsp;&nbsp; Запросить цены &nbsp;&nbsp;&nbsp;</button>
+        <div id="msgSubmit" class="h2 text-center hidden"></div>
+        <div class="clearfix"></div>
+    </form>
+   
+</div>
+
+      </div> -->
+	  
+	  
+                        </div>
+						<div class="modal-footer1"><hr>
+							<button type="button" class="btn btn-default" data-dismiss="modal">&nbsp;&nbsp;&nbsp;Выйти&nbsp;&nbsp;&nbsp;</button>
+						   <!--  <button type="button" class="btn btn-primary">Save changes</button> -->
+						</div>
+
+					</div>
+					<!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog -->
+            </div>
+		</div>
+	</div>
+</div>
+		
+										

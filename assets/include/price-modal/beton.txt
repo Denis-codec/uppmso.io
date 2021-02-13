@@ -1,0 +1,129 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="myModal-beton" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal-betonLabel" aria-hidden="true">
+                <div class="modal-dialog-full">
+                    <div class="modal-content">
+                        <div class="modal-body">
+				         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				         <h4>Цены на бетоны и растворы от 01 мая 2020г.</h4><hr>
+						 <table class="table table-condensed table-bordered table-hover"> <!-- <table class="table table-bordered">  -->
+						 
+							<tr>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	Цена	</th>	</tr>
+<tbody>										
+<tr>	<td>	Раствор М-100 изв. б/у	</td>	<td>	м3	</td>	<td>	3 500,00	</td>	</tr>
+<tr>	<td>	Раствор М-150 изв. б/у	</td>	<td>	м3	</td>	<td>	3 900,00	</td>	</tr>
+<tr>	<td>	Раствор М-200 изв. б/у	</td>	<td>	м3	</td>	<td>	4 500,00	</td>	</tr>
+<tr>	<td>	Раствор М-50 	</td>	<td>	м3	</td>	<td>	3 100,00	</td>	</tr>
+<tr>	<td>	Раствор М-75 	</td>	<td>	м3	</td>	<td>	3 200,00	</td>	</tr>
+<tr>	<td>	Раствор М-100 	</td>	<td>	м3	</td>	<td>	3 400,00	</td>	</tr>
+<tr>	<td>	Раствор М-125 	</td>	<td>	м3	</td>	<td>	3 600,00	</td>	</tr>
+<tr>	<td>	Раствор М-150 	</td>	<td>	м3	</td>	<td>	3 800,00	</td>	</tr>
+<tr>	<td>	Раствор М-200 	</td>	<td>	м3	</td>	<td>	3 900,00	</td>	</tr>
+<tr>	<td>	Раствор М-50 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	3 600,00	</td>	</tr>
+<tr>	<td>	Раствор М-75 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	3 800,00	</td>	</tr>
+<tr>	<td>	Раствор М-100 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 100,00	</td>	</tr>
+<tr>	<td>	Раствор М-125 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 300,00	</td>	</tr>
+<tr>	<td>	Раствор М-150 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 600,00	</td>	</tr>
+<tr>	<td>	Раствор М-200 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 800,00	</td>	</tr>
+<tr>	<td>	Раствор штукатурный М-100	</td>	<td>	м3	</td>	<td>	4 400,00	</td>	</tr>
+<tr>	<td>	&nbsp;	</td>	<td>	&nbsp;	</td>	<td>	&nbsp;	</td>	</tr>
+<tr>	<td>	Бетон М-50   В3,5	</td>	<td>	м3	</td>	<td>	3 900,00	</td>	</tr>
+<tr>	<td>	Бетон М-100 В7,5	</td>	<td>	м3	</td>	<td>	4 100,00	</td>	</tr>
+<tr>	<td>	Бетон М-150 В10	</td>	<td>	м3	</td>	<td>	4 400,00	</td>	</tr>
+<tr>	<td>	Бетон М-200 В15	</td>	<td>	м3	</td>	<td>	4 500,00	</td>	</tr>
+<tr>	<td>	Бетон М-250 В20	</td>	<td>	м3	</td>	<td>	4 600,00	</td>	</tr>
+<tr>	<td>	Бетон М-300 В22,5	</td>	<td>	м3	</td>	<td>	4 700,00	</td>	</tr>
+<tr>	<td>	Бетон М-350 В25	</td>	<td>	м3	</td>	<td>	4 800,00	</td>	</tr>
+<tr>	<td>	Бетон М-50   В3,5 с пласт. доб.	</td>	<td>	м3	</td>	<td>	3 900,00	</td>	</tr>
+<tr>	<td>	Бетон М-100 В7,5 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 200,00	</td>	</tr>
+<tr>	<td>	Бетон М-150 В10 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 400,00	</td>	</tr>
+<tr>	<td>	Бетон М-200 В15 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 500,00	</td>	</tr>
+<tr>	<td>	Бетон М-250 В20 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 600,00	</td>	</tr>
+<tr>	<td>	Бетон М-300 В22,5 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 700,00	</td>	</tr>
+<tr>	<td>	Бетон М-350 В25 с пласт. доб.	</td>	<td>	м3	</td>	<td>	4 800,00	</td>	</tr>
+<tr>	<td>	Бетон М-50 В3,5 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 300,00	</td>	</tr>
+<tr>	<td>	Бетон М-100 В7,5 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 600,00	</td>	</tr>
+<tr>	<td>	Бетон М-150 В10 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 000,00	</td>	</tr>
+<tr>	<td>	Бетон М-200 В15 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 100,00	</td>	</tr>
+<tr>	<td>	Бетон М-250 В20 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 300,00	</td>	</tr>
+<tr>	<td>	Бетон М-300 В22,5 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 400,00	</td>	</tr>
+<tr>	<td>	Бетон М-350 В25 c противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 500,00	</td>	</tr>
+<tr>	<td>	Бетон М-50 В3,5 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 300,00	</td>	</tr>
+<tr>	<td>	Бетон М-100 В7,5 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 600,00	</td>	</tr>
+<tr>	<td>	Бетон М-150 В10 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	4 900,00	</td>	</tr>
+<tr>	<td>	Бетон М-200 В15 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 100,00	</td>	</tr>
+<tr>	<td>	Бетон М-250 В20 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 300,00	</td>	</tr>
+<tr>	<td>	Бетон М-300 В22,5 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 400,00	</td>	</tr>
+<tr>	<td>	Бетон М-350 В25 с пласт. и противоморозной доб.	</td>	<td>	м3	</td>	<td>	5 500,00	</td>	</tr>
+<tr>	<td>	Керамзитобетон м-50	</td>	<td>	м3	</td>	<td>	4 900,00	</td>	</tr>
+</tbody>										
+</table>																														
+		
+   						 <!-- <a class="btn btn-default btn" style="margin-top: 10px; position: relative; margin: 0px 20px;" href="#" class="disabled target="blank"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp; Скачать прайс-лист &nbsp;&nbsp;&nbsp;</a><br> -->
+						 <br>
+							<p style="line-height: 1.2; position: relative; padding: 0px 10px;">Применяемые материалы:<br><br>
+							Цемент ПЦ-500-Д0<br>
+							Щебень шлаковый фр. 5-20<br>
+							Песок карьерный - Мкр.1,4<br><br>
+							Цена указана при заказе бетонов и растворов от 4 куб.м.<br>
+							При заказе меньшего объема дополнительно оплачиваются транспортные расходы.<br><br>
+							
+							Доставка за пределы города согласно действующих цен на автоуслуги.</p>
+                        </div>
+						<div class="page"  style="padding: 0px 20px;">
+							<div class="col-md-12" style="background:#e7e7e7;position: relative; top: 30px;"></div>
+							<h2 style="color: #2f383d;  padding-top: 55px; font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;"   class="header-line">СОПУТСТВУЮЩИЕ УСЛУГИ</h2>
+						</div> 
+						<div class="content" style="position: relative; padding: 0px 20px;"><BR>			  
+							<div class="row flexed" style="margin: 0px;">
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic00_20.jpg" alt="Продажа бетона"  style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>СУХИХ СМЕСЕЙ</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем сухие строительные смеси разного качества и в разных количествах для своих потребителей.</p><BR><BR>
+										</div>
+									</div>	
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic2.jpg" alt="Продажа нерудных материалов" style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>НЕРУДНЫХ МАТЕРИАЛОВ</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем нерудные материалы разного качества и в разных количествах для своих потребителей.</p><BR><BR>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic3.jpg" alt="Изготовление ЖБИ изделий по чертежам заказчика" style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ИЗГОТОВЛЕНИЕ ЖБИ<br>ПО ЧЕРТEЖАМ ЗАКАЗЧИКА</p><hr>
+											<p style="line-height: 1.3;">Мы производим различные изделия по чертежам заказчика в соответствии с индивидуальными требованиями проекта. </p><BR>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+							<div class="modal-foot"><hr>
+								<button type="button" class="btn btn-default" data-dismiss="modal">&nbsp;&nbsp;&nbsp;Выйти&nbsp;&nbsp;&nbsp;</button>
+								<!--  <button type="button" class="btn btn-primary">Save changes</button> -->
+							</div>
+					</div>
+					<!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog-full-->
+            </div>
+		</div>
+	</div>
+</div>
+
+		
+										

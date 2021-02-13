@@ -1,0 +1,32 @@
+# Все форматы страниц содержат SSI включения
+
+AddHandler server-parsed .shtml .shtm .htm .html 
+
+# Убирает html
+
+RewriteEngine on
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.html\ HTTP
+RewriteRule ^([^.]+)\.html$ http://uppmso.ru/$1 [R=301,L]
+RewriteCond %{REQUEST_URI} !(\.[^./]+)$
+RewriteCond %{REQUEST_fileNAME} !-d
+RewriteCond %{REQUEST_fileNAME} !-f
+RewriteRule (.*) /$1.html [L]
+
+# Убирает shtml
+
+RewriteEngine on
+RewriteBase /
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.shtml\ HTTP
+RewriteRule ^([^.]+)\.shtml$ http://uppmso.ru/$1 [R=301,L]
+RewriteCond %{REQUEST_URI} !(\.[^./]+)$
+RewriteCond %{REQUEST_fileNAME} !-d
+RewriteCond %{REQUEST_fileNAME} !-f
+RewriteRule (.*) /$1.shtml [L]
+
+# Ошибка 404
+
+ErrorDocument 404 /err404.html
+
+# RewriteCond %{REQUEST_URI} (.*)
+

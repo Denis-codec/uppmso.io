@@ -1,0 +1,634 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="myModal-zhbi-fl" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal-zhbi-flLabel" aria-hidden="true">
+                <div class="modal-dialog-full">
+                    <div class="modal-content">
+                        <div class="modal-body">
+				         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				         <h4>Цены на железобетонные изделия от 1 ноября 2019 г.</h4><hr>
+						 <table class="table table-condensed table-bordered table-hover"> <!-- <table class="table table-bordered">  -->
+						 
+							<tr>	<th>	Наименование изделий	</th>	<th>	Ед.<br>изм.	</th>	<th>	V=куб.м	</th>	<th>	Масса,<br>кг	</th>	<th>	Цена	</th>	</tr>
+<tbody>																
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	БЛОКИ БЕТОННЫЕ													</th>	</tr>
+<tr>	<td>	ФБС 6.6.6	</td>	<td>	шт	</td>	<td>	0,216	</td>	<td>	560	</td>	<td>	978,00	</td>	</tr>
+<tr>	<td>	ФБС 6.4.6	</td>	<td>	шт	</td>	<td>	0,13	</td>	<td>	340	</td>	<td>	610,00	</td>	</tr>
+<tr>	<td>	ФБС 6.4.4	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	502,00	</td>	</tr>
+<tr>	<td>	ФБС 6.4.3	</td>	<td>	шт	</td>	<td>	0,07	</td>	<td>	180	</td>	<td>	389,00	</td>	</tr>
+<tr>	<td>	ФБС 8.4.6	</td>	<td>	шт	</td>	<td>	0,185	</td>	<td>	480	</td>	<td>	899,00	</td>	</tr>
+<tr>	<td>	ФБС 8.5.6	</td>	<td>	шт	</td>	<td>	0,225	</td>	<td>	590	</td>	<td>	1 086,00	</td>	</tr>
+<tr>	<td>	ФБС 9.6.6	</td>	<td>	шт	</td>	<td>	0,303	</td>	<td>	790	</td>	<td>	1 338,00	</td>	</tr>
+<tr>	<td>	ФБС 9.5.6	</td>	<td>	шт	</td>	<td>	0,252	</td>	<td>	660	</td>	<td>	1 085,00	</td>	</tr>
+<tr>	<td>	ФБС 9.4.6	</td>	<td>	шт	</td>	<td>	0,202	</td>	<td>	530	</td>	<td>	886,00	</td>	</tr>
+<tr>	<td>	ФБС 9.3.6	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	732,00	</td>	</tr>
+<tr>	<td>	ФБС 9.3.3	</td>	<td>	шт	</td>	<td>	0,075	</td>	<td>	200	</td>	<td>	452,00	</td>	</tr>
+<tr>	<td>	ФБС 12.6.6	</td>	<td>	шт	</td>	<td>	0,412	</td>	<td>	1070	</td>	<td>	1 777,00	</td>	</tr>
+<tr>	<td>	ФБС 12.5.6	</td>	<td>	шт	</td>	<td>	0,342	</td>	<td>	890	</td>	<td>	1 444,00	</td>	</tr>
+<tr>	<td>	ФБС 12.4.6	</td>	<td>	шт	</td>	<td>	0,274	</td>	<td>	710	</td>	<td>	1 206,00	</td>	</tr>
+<tr>	<td>	ФБС 12.3.6	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	913,00	</td>	</tr>
+<tr>	<td>	ФБС 12.3.3	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	552,00	</td>	</tr>
+<tr>	<td>	ФБС 24.6.6	</td>	<td>	шт	</td>	<td>	0,843	</td>	<td>	2190	</td>	<td>	3 504,00	</td>	</tr>
+<tr>	<td>	ФБС 24.5.6	</td>	<td>	шт	</td>	<td>	0,702	</td>	<td>	1830	</td>	<td>	2 855,00	</td>	</tr>
+<tr>	<td>	ФБC 24.4.6	</td>	<td>	шт	</td>	<td>	0,562	</td>	<td>	1460	</td>	<td>	2 329,00	</td>	</tr>
+<tr>	<td>	ФБС 24.3.6	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	1 794,00	</td>	</tr>
+<tr>	<td>	ФБС 9.6.3	</td>	<td>	шт	</td>	<td>	0,15	</td>	<td>	390	</td>	<td>	712,00	</td>	</tr>
+<tr>	<td>	ФБС 12.6.3	</td>	<td>	шт	</td>	<td>	0,191	</td>	<td>	500	</td>	<td>	865,00	</td>	</tr>
+<tr>	<td>	ФБС 12.5.3	</td>	<td>	шт	</td>	<td>	0,159	</td>	<td>	410	</td>	<td>	732,00	</td>	</tr>
+<tr>	<td>	ФБС 12.4.3	</td>	<td>	шт	</td>	<td>	0,127	</td>	<td>	330	</td>	<td>	620,00	</td>	</tr>
+<tr>	<td>	ФБС 24.6.3	</td>	<td>	шт	</td>	<td>	0,395	</td>	<td>	1030	</td>	<td>	1 717,00	</td>	</tr>
+<tr>	<td>	ФБС 24.4.3	</td>	<td>	шт	</td>	<td>	0,271	</td>	<td>	700	</td>	<td>	1 229,00	</td>	</tr>
+<tr>	<td>	ФБС 24.3.3	</td>	<td>	шт	</td>	<td>	0,216	</td>	<td>	560	</td>	<td>	1 054,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ВЕНТИЛЯЦИОННЫЕ БЛОКИ													</th>	</tr>
+<tr>	<td>	ВБВ 9.28	</td>	<td>	шт	</td>	<td>	0,38	</td>	<td>	990	</td>	<td>	4 924,00	</td>	</tr>
+<tr>	<td>	ВБВ 9.28-3А (Д 1000)	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	4 823,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	СВАИ													</th>	</tr>
+<tr>	<td>	с 3-30-3	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	2 873,00	</td>	</tr>
+<tr>	<td>	с 3-30-6	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	3 079,00	</td>	</tr>
+<tr>	<td>	с 4-30-3	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	3 668,00	</td>	</tr>
+<tr>	<td>	с 4-30-6	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	3 949,00	</td>	</tr>
+<tr>	<td>	с 4-30-8	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	4 362,00	</td>	</tr>
+<tr>	<td>	с 5-30-3	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	4 476,00	</td>	</tr>
+<tr>	<td>	с 5-30-6	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	4 854,00	</td>	</tr>
+<tr>	<td>	с 6-30-3	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	5 231,00	</td>	</tr>
+<tr>	<td>	с 6-30-6	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	5 646,00	</td>	</tr>
+<tr>	<td>	с 6-30-8	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	6 130,00	</td>	</tr>
+<tr>	<td>	с 7-30-4	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	6 587,00	</td>	</tr>
+<tr>	<td>	с 7-30-6	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	6 587,00	</td>	</tr>
+<tr>	<td>	с 7-30-8	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	7 162,00	</td>	</tr>
+<tr>	<td>	с 8-30-6	</td>	<td>	шт	</td>	<td>	0,73	</td>	<td>	1900	</td>	<td>	7 462,00	</td>	</tr>
+<tr>	<td>	с 8-30-8	</td>	<td>	шт	</td>	<td>	0,73	</td>	<td>	1900	</td>	<td>	8 495,00	</td>	</tr>
+<tr>	<td>	с 9-30-6	</td>	<td>	шт	</td>	<td>	0,82	</td>	<td>	2130	</td>	<td>	8 366,00	</td>	</tr>
+<tr>	<td>	с 9-30-8	</td>	<td>	шт	</td>	<td>	0,82	</td>	<td>	2130	</td>	<td>	9 095,00	</td>	</tr>
+<tr>	<td>	с 10-30-6	</td>	<td>	шт	</td>	<td>	0,91	</td>	<td>	2370	</td>	<td>	9 158,00	</td>	</tr>
+<tr>	<td>	с 10-30-8	</td>	<td>	шт	</td>	<td>	0,91	</td>	<td>	2370	</td>	<td>	11 128,00	</td>	</tr>
+<tr>	<td>	с 11-30-8	</td>	<td>	шт	</td>	<td>	1	</td>	<td>	2600	</td>	<td>	11 051,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ОПОРЫ ЛЭП													</th>	</tr>
+<tr>	<td>	Стойка СВ 95-2 А lll	</td>	<td>	шт	</td>	<td>	0,44	</td>	<td>	1140	</td>	<td>	6 660,00	</td>	</tr>
+<tr>	<td>	Стойка СВ 95-3 lV	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	9 191,00	</td>	</tr>
+<tr>	<td>	Стойка СВ 105-3,5 А lll	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	9 306,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	КОЗЫРЕК													</th>	</tr>
+<tr>	<td>	КВ 18.19-13	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	5 785,00	</td>	</tr>
+<tr>	<td>	КВ 24.19-13	</td>	<td>	шт	</td>	<td>	0,47	</td>	<td>	1220	</td>	<td>	7 260,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЛИТЫ ФУНДАМЕНТНЫЕ													</th>	</tr>
+<tr>	<td>	ФЛ 6, 12-4	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	1 150,00	</td>	</tr>
+<tr>	<td>	ФЛ 6, 24-4	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	2 180,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 12-1	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	1 489,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 12-3	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	1 537,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 12-4	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	1 559,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 24-1	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	2 954,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 24-3	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	3 022,00	</td>	</tr>
+<tr>	<td>	ФЛ 8, 24-4	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	3 118,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 8-2	</td>	<td>	шт	</td>	<td>	0,2	</td>	<td>	520	</td>	<td>	1 242,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 8-4	</td>	<td>	шт	</td>	<td>	0,205	</td>	<td>	530	</td>	<td>	1 304,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 12-1	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	1 704,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 12-2	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	1 766,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 12-3	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	1 810,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 12-4	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	1 870,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 24-1	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	3 398,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 24-2	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	3 492,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 24-3	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	3 647,00	</td>	</tr>
+<tr>	<td>	ФЛ 10, 24-4	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	3 782,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 12-1	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	2 101,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 12-2	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	2 185,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 12-3	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	2 188,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 12-4	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	2 389,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 24-1	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	4 043,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 24-2	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	4 367,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 24-3	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	4 580,00	</td>	</tr>
+<tr>	<td>	ФЛ 12, 24-4	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	4 775,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 12-1	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	2 459,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 12-2	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	2 605,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 12-3	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	2 717,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 12-4	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	2 983,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 24-1	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	5 015,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 24-2	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	5 285,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 24-3	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	5 508,00	</td>	</tr>
+<tr>	<td>	ФЛ 14, 24-4	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	5 999,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 12-1	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	2 814,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 12-2	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	3 088,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 12-3	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	3 326,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 12-4	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	3 497,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 24-1	</td>	<td>	шт	</td>	<td>	0,98	</td>	<td>	2550	</td>	<td>	5 657,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 24-2	</td>	<td>	шт	</td>	<td>	0,98	</td>	<td>	2550	</td>	<td>	6 218,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 24-3	</td>	<td>	шт	</td>	<td>	0,98	</td>	<td>	2550	</td>	<td>	6 640,00	</td>	</tr>
+<tr>	<td>	ФЛ 16, 24-4	</td>	<td>	шт	</td>	<td>	0,98	</td>	<td>	2550	</td>	<td>	7 091,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 12-1	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	4 692,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 12-2	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	4 882,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 12-3	</td>	<td>	шт	</td>	<td>	0,854	</td>	<td>	2220	</td>	<td>	5 296,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 12-4	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	5 431,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 24-1	</td>	<td>	шт	</td>	<td>	1,63	</td>	<td>	4240	</td>	<td>	9 590,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 24-2	</td>	<td>	шт	</td>	<td>	1,63	</td>	<td>	4240	</td>	<td>	10 080,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 24-3	</td>	<td>	шт	</td>	<td>	1,63	</td>	<td>	4240	</td>	<td>	10 672,00	</td>	</tr>
+<tr>	<td>	ФЛ 20, 24-4	</td>	<td>	шт	</td>	<td>	1,63	</td>	<td>	4240	</td>	<td>	11 152,00	</td>	</tr>
+<tr>	<td>	ФЛ 24, 12-1	</td>	<td>	шт	</td>	<td>	1,06	</td>	<td>	2760	</td>	<td>	5 986,00	</td>	</tr>
+<tr>	<td>	ФЛ 24, 12-2	</td>	<td>	шт	</td>	<td>	1,06	</td>	<td>	2760	</td>	<td>	6 402,00	</td>	</tr>
+<tr>	<td>	ФЛ 24, 12-3	</td>	<td>	шт	</td>	<td>	1,06	</td>	<td>	2760	</td>	<td>	6 868,00	</td>	</tr>
+<tr>	<td>	ФЛ 24, 12-4	</td>	<td>	шт	</td>	<td>	1,06	</td>	<td>	2760	</td>	<td>	7 093,00	</td>	</tr>
+<tr>	<td>	ФЛ 28, 12-1	</td>	<td>	шт	</td>	<td>	1,38	</td>	<td>	3590	</td>	<td>	7 687,00	</td>	</tr>
+<tr>	<td>	ФЛ 28, 12-2	</td>	<td>	шт	</td>	<td>	1,38	</td>	<td>	3590	</td>	<td>	8 228,00	</td>	</tr>
+<tr>	<td>	ФЛ 28, 12-3	</td>	<td>	шт	</td>	<td>	1,038	</td>	<td>	2700	</td>	<td>	7 948,00	</td>	</tr>
+<tr>	<td>	ФЛ 28, 12-4	</td>	<td>	шт	</td>	<td>	1,384	</td>	<td>	3600	</td>	<td>	9 734,00	</td>	</tr>
+<tr>	<td>	ФЛ 32, 12-1	</td>	<td>	шт	</td>	<td>	1,61	</td>	<td>	4190	</td>	<td>	9 234,00	</td>	</tr>
+<tr>	<td>	ФЛ 32, 12-2	</td>	<td>	шт	</td>	<td>	1,61	</td>	<td>	4190	</td>	<td>	10 422,00	</td>	</tr>
+<tr>	<td>	ФЛ 32, 12-3	</td>	<td>	шт	</td>	<td>	1,61	</td>	<td>	4190	</td>	<td>	11 008,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЛИТЫ ПУСТОТНЫЕ													</th>	</tr>
+<tr>	<td>	ПК 17.12-8т	</td>	<td>	шт	</td>	<td>	0,26	</td>	<td>	680	</td>	<td>	2 102,00	</td>	</tr>
+<tr>	<td>	ПК 18.12-8т	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	2 275,00	</td>	</tr>
+<tr>	<td>	ПК 19.12-8т	</td>	<td>	шт	</td>	<td>	0,29	</td>	<td>	750	</td>	<td>	2 280,00	</td>	</tr>
+<tr>	<td>	ПК 20.12-8т	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	2 434,00	</td>	</tr>
+<tr>	<td>	ПК 21.10-8т	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	2 207,00	</td>	</tr>
+<tr>	<td>	ПК 21.12-8т	</td>	<td>	шт	</td>	<td>	0,32	</td>	<td>	830	</td>	<td>	2 551,00	</td>	</tr>
+<tr>	<td>	ПК 22.10-8т	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	2 273,00	</td>	</tr>
+<tr>	<td>	ПК 22.12-8т	</td>	<td>	шт	</td>	<td>	0,335	</td>	<td>	870	</td>	<td>	2 647,00	</td>	</tr>
+<tr>	<td>	ПК 23.10-8т	</td>	<td>	шт	</td>	<td>	0,29	</td>	<td>	750	</td>	<td>	2 351,00	</td>	</tr>
+<tr>	<td>	ПК 23.12-8т	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	2 759,00	</td>	</tr>
+<tr>	<td>	ПК 24.10-8т	</td>	<td>	шт	</td>	<td>	0,3	</td>	<td>	780	</td>	<td>	2 545,00	</td>	</tr>
+<tr>	<td>	ПК 24.12-8т	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	2 993,00	</td>	</tr>
+<tr>	<td>	ПК 25.12-8т	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	3 066,00	</td>	</tr>
+<tr>	<td>	ПК 26.12-8т	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	3 206,00	</td>	</tr>
+<tr>	<td>	ПК 27.10-8т	</td>	<td>	шт	</td>	<td>	0,33	</td>	<td>	860	</td>	<td>	2 783,00	</td>	</tr>
+<tr>	<td>	ПК 27.12-8т	</td>	<td>	шт	</td>	<td>	0,4	</td>	<td>	1040	</td>	<td>	3 300,00	</td>	</tr>
+<tr>	<td>	ПК 28.10-8т	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	2 912,00	</td>	</tr>
+<tr>	<td>	ПК 28.12-8т	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	3 431,00	</td>	</tr>
+<tr>	<td>	ПК 29.12-8т	</td>	<td>	шт	</td>	<td>	0,444	</td>	<td>	1150	</td>	<td>	3 595,00	</td>	</tr>
+<tr>	<td>	ПК 30.10-8т	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	3 068,00	</td>	</tr>
+<tr>	<td>	ПК 30.12-8т	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	3 650,00	</td>	</tr>
+<tr>	<td>	ПК 31.12-8т	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	4 001,00	</td>	</tr>
+<tr>	<td>	ПК 31.10-8т	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	3 228,00	</td>	</tr>
+<tr>	<td>	ПК 32.10-8т	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	3 230,00	</td>	</tr>
+<tr>	<td>	ПК 32.12-8т	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	3 780,00	</td>	</tr>
+<tr>	<td>	ПК 33.10-8т	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	3 472,00	</td>	</tr>
+<tr>	<td>	ПК 33.12-8т	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	4 242,00	</td>	</tr>
+<tr>	<td>	ПК 34.10-8т	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	3 542,00	</td>	</tr>
+<tr>	<td>	ПК 34.12-8т	</td>	<td>	шт	</td>	<td>	0,5	</td>	<td>	1300	</td>	<td>	4 129,00	</td>	</tr>
+<tr>	<td>	ПК 35.10-8т 	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	3 780,00	</td>	</tr>
+<tr>	<td>	ПК 35.12-8т 	</td>	<td>	шт	</td>	<td>	0,52	</td>	<td>	1350	</td>	<td>	4 480,00	</td>	</tr>
+<tr>	<td>	ПК 36.10-8т	</td>	<td>	шт	</td>	<td>	0,43	</td>	<td>	1120	</td>	<td>	3 804,00	</td>	</tr>
+<tr>	<td>	ПК 36.12-8т	</td>	<td>	шт	</td>	<td>	0,53	</td>	<td>	1380	</td>	<td>	4 560,00	</td>	</tr>
+<tr>	<td>	ПК 37.12-8т 	</td>	<td>	шт	</td>	<td>	0,54	</td>	<td>	1400	</td>	<td>	4 662,00	</td>	</tr>
+<tr>	<td>	ПК 38.12-8т	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	4 811,00	</td>	</tr>
+<tr>	<td>	ПК 39.10-8т	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	4 157,00	</td>	</tr>
+<tr>	<td>	ПК 39.12-8т	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	4 897,00	</td>	</tr>
+<tr>	<td>	ПК 40.10-8т	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	4 260,00	</td>	</tr>
+<tr>	<td>	ПК 40.12-8т	</td>	<td>	шт	</td>	<td>	0,585	</td>	<td>	1520	</td>	<td>	5 018,00	</td>	</tr>
+<tr>	<td>	ПК 42.10-8т	</td>	<td>	шт	</td>	<td>	0,5	</td>	<td>	1300	</td>	<td>	4 374,00	</td>	</tr>
+<tr>	<td>	ПК 42.12-8т	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	5 228,00	</td>	</tr>
+<tr>	<td>	ПК 43.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,525	</td>	<td>	1370	</td>	<td>	4 586,00	</td>	</tr>
+<tr>	<td>	ПК 43.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,63	</td>	<td>	1640	</td>	<td>	5 254,00	</td>	</tr>
+<tr>	<td>	ПК 44.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	4 666,00	</td>	</tr>
+<tr>	<td>	ПК 44.12-8 Aт V 	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	5 305,00	</td>	</tr>
+<tr>	<td>	ПК 45.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	4 768,00	</td>	</tr>
+<tr>	<td>	ПК 45.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,655	</td>	<td>	1700	</td>	<td>	5 442,00	</td>	</tr>
+<tr>	<td>	ПК 46.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	4 810,00	</td>	</tr>
+<tr>	<td>	ПК 46.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,67	</td>	<td>	1740	</td>	<td>	5 548,00	</td>	</tr>
+<tr>	<td>	ПК 47.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	4 945,00	</td>	</tr>
+<tr>	<td>	ПК 47.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,68	</td>	<td>	1770	</td>	<td>	5 576,00	</td>	</tr>
+<tr>	<td>	ПК 48.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	4 967,00	</td>	</tr>
+<tr>	<td>	ПК 48.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,69	</td>	<td>	1790	</td>	<td>	5 710,00	</td>	</tr>
+<tr>	<td>	ПК 49.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	5 972,00	</td>	</tr>
+<tr>	<td>	ПК 50.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,725	</td>	<td>	1890	</td>	<td>	6 175,00	</td>	</tr>
+<tr>	<td>	ПК 50.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	5 410,00	</td>	</tr>
+<tr>	<td>	ПК 51.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	5 459,00	</td>	</tr>
+<tr>	<td>	ПК 51.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,73	</td>	<td>	1900	</td>	<td>	6 224,00	</td>	</tr>
+<tr>	<td>	ПК 52.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,74	</td>	<td>	1920	</td>	<td>	7 032,00	</td>	</tr>
+<tr>	<td>	ПК 53.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,77	</td>	<td>	2000	</td>	<td>	6 967,00	</td>	</tr>
+<tr>	<td>	ПК 53.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	5 747,00	</td>	</tr>
+<tr>	<td>	ПК 54.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	5 716,00	</td>	</tr>
+<tr>	<td>	ПК 54.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,78	</td>	<td>	2030	</td>	<td>	6 972,00	</td>	</tr>
+<tr>	<td>	ПК 55.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,65	</td>	<td>	1690	</td>	<td>	6 048,00	</td>	</tr>
+<tr>	<td>	ПК 55.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,79	</td>	<td>	2050	</td>	<td>	7 354,00	</td>	</tr>
+<tr>	<td>	ПК 56.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	7 297,00	</td>	</tr>
+<tr>	<td>	ПК 57.10-8 Ат V 	</td>	<td>	шт	</td>	<td>	0,8	</td>	<td>	2080	</td>	<td>	7 361,00	</td>	</tr>
+<tr>	<td>	ПК 57.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,82	</td>	<td>	2130	</td>	<td>	7 555,00	</td>	</tr>
+<tr>	<td>	ПК 58.10-8 Ат V 	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	7 375,00	</td>	</tr>
+<tr>	<td>	ПК 58.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,84	</td>	<td>	2180	</td>	<td>	7 949,00	</td>	</tr>
+<tr>	<td>	ПК 59.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	7 014,00	</td>	</tr>
+<tr>	<td>	ПК 59.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	8 225,00	</td>	</tr>
+<tr>	<td>	ПК 60.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,71	</td>	<td>	1850	</td>	<td>	6 866,00	</td>	</tr>
+<tr>	<td>	ПК 60.12-8 Ат V 	</td>	<td>	шт	</td>	<td>	0,86	</td>	<td>	2240	</td>	<td>	8 033,00	</td>	</tr>
+<tr>	<td>	ПК 61.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,74	</td>	<td>	1920	</td>	<td>	7 198,00	</td>	</tr>
+<tr>	<td>	ПК 61.12-8 Aт V	</td>	<td>	шт	</td>	<td>	0,88	</td>	<td>	2290	</td>	<td>	8 509,00	</td>	</tr>
+<tr>	<td>	ПК 62.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,75	</td>	<td>	1950	</td>	<td>	7 206,00	</td>	</tr>
+<tr>	<td>	ПК 62.12-8 Aт V	</td>	<td>	шт	</td>	<td>	0,89	</td>	<td>	2310	</td>	<td>	8 035,00	</td>	</tr>
+<tr>	<td>	ПК 63.10-8 Aт V	</td>	<td>	шт	</td>	<td>	0,76	</td>	<td>	1980	</td>	<td>	7 351,00	</td>	</tr>
+<tr>	<td>	ПК 63.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,9	</td>	<td>	2340	</td>	<td>	8 654,00	</td>	</tr>
+<tr>	<td>	ПК 64.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,93	</td>	<td>	2420	</td>	<td>	9 250,00	</td>	</tr>
+<tr>	<td>	ПК 65.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,935	</td>	<td>	2430	</td>	<td>	9 242,00	</td>	</tr>
+<tr>	<td>	ПК 66.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,92	</td>	<td>	2390	</td>	<td>	9 406,00	</td>	</tr>
+<tr>	<td>	ПК 66.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,94	</td>	<td>	2440	</td>	<td>	9 427,00	</td>	</tr>
+<tr>	<td>	ПК 67.10-8 Ат V	</td>	<td>	шт	</td>	<td>	0,935	</td>	<td>	2430	</td>	<td>	10 174,00	</td>	</tr>
+<tr>	<td>	ПК 67.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,96	</td>	<td>	2500	</td>	<td>	10 387,00	</td>	</tr>
+<tr>	<td>	ПК 68.12-8 Ат V	</td>	<td>	шт	</td>	<td>	0,975	</td>	<td>	2540	</td>	<td>	11 002,00	</td>	</tr>
+<tr>	<td>	ПК 70.12-8 Ат V 	</td>	<td>	шт	</td>	<td>	1	</td>	<td>	2600	</td>	<td>	10 510,00	</td>	</tr>
+<tr>	<td>	ПК 71.10-8 Ат V 	</td>	<td>	шт	</td>	<td>	0,985	</td>	<td>	2560	</td>	<td>	10 726,00	</td>	</tr>
+<tr>	<td>	ПК 71.12-8 Ат V	</td>	<td>	шт	</td>	<td>	1,02	</td>	<td>	2650	</td>	<td>	10 792,00	</td>	</tr>
+<tr>	<td>	ПК 72.10-8  Ат V  	</td>	<td>	шт	</td>	<td>	1	</td>	<td>	2600	</td>	<td>	10 802,00	</td>	</tr>
+<tr>	<td>	ПК 72.12-8 Ат V	</td>	<td>	шт	</td>	<td>	1,03	</td>	<td>	2680	</td>	<td>	10 738,00	</td>	</tr>
+<tr>	<td>	ПК 18.15-8т	</td>	<td>	шт	</td>	<td>	0,365	</td>	<td>	950	</td>	<td>	2 752,00	</td>	</tr>
+<tr>	<td>	ПК 20.15-8т	</td>	<td>	шт	</td>	<td>	0,4	</td>	<td>	1040	</td>	<td>	2 996,00	</td>	</tr>
+<tr>	<td>	ПК 21.15-8т	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	3 124,00	</td>	</tr>
+<tr>	<td>	ПК 22.15-8т	</td>	<td>	шт	</td>	<td>	0,44	</td>	<td>	1140	</td>	<td>	3 326,00	</td>	</tr>
+<tr>	<td>	ПК 23.15-8т	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	3 666,00	</td>	</tr>
+<tr>	<td>	ПК 24.15-8т	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	3 803,00	</td>	</tr>
+<tr>	<td>	ПК 25.15-8т	</td>	<td>	шт	</td>	<td>	0,495	</td>	<td>	1290	</td>	<td>	3 912,00	</td>	</tr>
+<tr>	<td>	ПК 26.15-8т	</td>	<td>	шт	</td>	<td>	0,52	</td>	<td>	1350	</td>	<td>	4 066,00	</td>	</tr>
+<tr>	<td>	ПК 27.15-8т	</td>	<td>	шт	</td>	<td>	0,53	</td>	<td>	1380	</td>	<td>	4 194,00	</td>	</tr>
+<tr>	<td>	ПК 28.15-8т	</td>	<td>	шт	</td>	<td>	0,55	</td>	<td>	1430	</td>	<td>	4 260,00	</td>	</tr>
+<tr>	<td>	ПК 29.15-8т	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	4 457,00	</td>	</tr>
+<tr>	<td>	ПК 30.15-8т	</td>	<td>	шт	</td>	<td>	0,59	</td>	<td>	1530	</td>	<td>	4 607,00	</td>	</tr>
+<tr>	<td>	ПК 31.15-8т 	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	4 765,00	</td>	</tr>
+<tr>	<td>	ПК 32.15-8т	</td>	<td>	шт	</td>	<td>	0,63	</td>	<td>	1640	</td>	<td>	4 944,00	</td>	</tr>
+<tr>	<td>	ПК 33.15-8т	</td>	<td>	шт	</td>	<td>	0,65	</td>	<td>	1690	</td>	<td>	5 011,00	</td>	</tr>
+<tr>	<td>	ПК 34.15-8т	</td>	<td>	шт	</td>	<td>	0,66	</td>	<td>	1720	</td>	<td>	5 160,00	</td>	</tr>
+<tr>	<td>	ПК 35.15-8т	</td>	<td>	шт	</td>	<td>	0,68	</td>	<td>	1770	</td>	<td>	5 486,00	</td>	</tr>
+<tr>	<td>	ПК 36.15-8т	</td>	<td>	шт	</td>	<td>	0,7	</td>	<td>	1820	</td>	<td>	5 614,00	</td>	</tr>
+<tr>	<td>	ПК 37.15-8т	</td>	<td>	шт	</td>	<td>	0,72	</td>	<td>	1870	</td>	<td>	5 974,00	</td>	</tr>
+<tr>	<td>	ПК 38.15-8т	</td>	<td>	шт	</td>	<td>	0,74	</td>	<td>	1920	</td>	<td>	6 032,00	</td>	</tr>
+<tr>	<td>	ПК 39.15-8т	</td>	<td>	шт	</td>	<td>	0,76	</td>	<td>	1980	</td>	<td>	6 293,00	</td>	</tr>
+<tr>	<td>	ПК 40.15-8т	</td>	<td>	шт	</td>	<td>	0,775	</td>	<td>	2020	</td>	<td>	6 438,00	</td>	</tr>
+<tr>	<td>	ПК 42.15-8т	</td>	<td>	шт	</td>	<td>	0,81	</td>	<td>	2110	</td>	<td>	6 719,00	</td>	</tr>
+<tr>	<td>	ПК 43.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,83	</td>	<td>	2160	</td>	<td>	6 737,00	</td>	</tr>
+<tr>	<td>	ПК 44.15-8 Aт V	</td>	<td>	шт	</td>	<td>	0,85	</td>	<td>	2210	</td>	<td>	7 097,00	</td>	</tr>
+<tr>	<td>	ПК 45.15-8 Ат V 	</td>	<td>	шт	</td>	<td>	0,865	</td>	<td>	2250	</td>	<td>	7 079,00	</td>	</tr>
+<tr>	<td>	ПК 46.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,885	</td>	<td>	2300	</td>	<td>	7 247,00	</td>	</tr>
+<tr>	<td>	ПК 47.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,9	</td>	<td>	2340	</td>	<td>	7 337,00	</td>	</tr>
+<tr>	<td>	ПК 48.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,92	</td>	<td>	2390	</td>	<td>	7 477,00	</td>	</tr>
+<tr>	<td>	ПК 50.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,96	</td>	<td>	2500	</td>	<td>	8 045,00	</td>	</tr>
+<tr>	<td>	ПК 51.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,97	</td>	<td>	2520	</td>	<td>	8 123,00	</td>	</tr>
+<tr>	<td>	ПК 52.15-8 Ат V	</td>	<td>	шт	</td>	<td>	0,995	</td>	<td>	2590	</td>	<td>	8 674,00	</td>	</tr>
+<tr>	<td>	ПК 53.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,01	</td>	<td>	2630	</td>	<td>	8 891,00	</td>	</tr>
+<tr>	<td>	ПК 54.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,03	</td>	<td>	2680	</td>	<td>	8 941,00	</td>	</tr>
+<tr>	<td>	ПК 55.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,05	</td>	<td>	2730	</td>	<td>	9 221,00	</td>	</tr>
+<tr>	<td>	ПК 56.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,07	</td>	<td>	2780	</td>	<td>	9 341,00	</td>	</tr>
+<tr>	<td>	ПК 57.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,08	</td>	<td>	2810	</td>	<td>	9 674,00	</td>	</tr>
+<tr>	<td>	ПК 58.15-8 Ат V 	</td>	<td>	шт	</td>	<td>	1,11	</td>	<td>	2890	</td>	<td>	10 104,00	</td>	</tr>
+<tr>	<td>	ПК 59.15-8 Ат V 	</td>	<td>	шт	</td>	<td>	1,13	</td>	<td>	2940	</td>	<td>	10 541,00	</td>	</tr>
+<tr>	<td>	ПК 60.15-8 Ат V 	</td>	<td>	шт	</td>	<td>	1,14	</td>	<td>	2960	</td>	<td>	10 339,00	</td>	</tr>
+<tr>	<td>	ПК 61.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,16	</td>	<td>	3020	</td>	<td>	10 520,00	</td>	</tr>
+<tr>	<td>	ПК 62.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,18	</td>	<td>	3070	</td>	<td>	10 646,00	</td>	</tr>
+<tr>	<td>	ПК 63.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,19	</td>	<td>	3090	</td>	<td>	10 824,00	</td>	</tr>
+<tr>	<td>	ПК 64.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,24	</td>	<td>	3220	</td>	<td>	11 531,00	</td>	</tr>
+<tr>	<td>	ПК 65.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,24	</td>	<td>	3220	</td>	<td>	11 549,00	</td>	</tr>
+<tr>	<td>	ПК 66.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,25	</td>	<td>	3250	</td>	<td>	11 995,00	</td>	</tr>
+<tr>	<td>	ПК 67.15-8 Aт V	</td>	<td>	шт	</td>	<td>	1,275	</td>	<td>	3320	</td>	<td>	13 184,00	</td>	</tr>
+<tr>	<td>	ПК 68.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,29	</td>	<td>	3350	</td>	<td>	13 279,00	</td>	</tr>
+<tr>	<td>	ПК 70.15-8 Ат V 	</td>	<td>	шт	</td>	<td>	1,33	</td>	<td>	3460	</td>	<td>	13 538,00	</td>	</tr>
+<tr>	<td>	ПК 71.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,35	</td>	<td>	3510	</td>	<td>	13 850,00	</td>	</tr>
+<tr>	<td>	ПК 72.15-8 Ат V	</td>	<td>	шт	</td>	<td>	1,36	</td>	<td>	3540	</td>	<td>	13 788,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЕРЕМЫЧКИ													</th>	</tr>
+<tr>	<td>	1 ПБ-10-1	</td>	<td>	шт	</td>	<td>	0,008	</td>	<td>	20	</td>	<td>	98,00	</td>	</tr>
+<tr>	<td>	1 ПБ-13-1	</td>	<td>	шт	</td>	<td>	0,01	</td>	<td>	30	</td>	<td>	121,00	</td>	</tr>
+<tr>	<td>	1 ПБ-16-1	</td>	<td>	шт	</td>	<td>	0,012	</td>	<td>	30	</td>	<td>	143,00	</td>	</tr>
+<tr>	<td>	2 ПБ-10-1п	</td>	<td>	шт	</td>	<td>	0,017	</td>	<td>	40	</td>	<td>	173,00	</td>	</tr>
+<tr>	<td>	2 ПБ-13-1п	</td>	<td>	шт	</td>	<td>	0,022	</td>	<td>	60	</td>	<td>	209,00	</td>	</tr>
+<tr>	<td>	2 ПБ-16-2п	</td>	<td>	шт	</td>	<td>	0,026	</td>	<td>	70	</td>	<td>	246,00	</td>	</tr>
+<tr>	<td>	2 ПБ-17-2п	</td>	<td>	шт	</td>	<td>	0,028	</td>	<td>	70	</td>	<td>	264,00	</td>	</tr>
+<tr>	<td>	2 ПБ-19-3п	</td>	<td>	шт	</td>	<td>	0,033	</td>	<td>	90	</td>	<td>	318,00	</td>	</tr>
+<tr>	<td>	2 ПБ-22-3п	</td>	<td>	шт	</td>	<td>	0,037	</td>	<td>	100	</td>	<td>	366,00	</td>	</tr>
+<tr>	<td>	2 ПБ-25-3п	</td>	<td>	шт	</td>	<td>	0,041	</td>	<td>	110	</td>	<td>	455,00	</td>	</tr>
+<tr>	<td>	2 ПБ-26-4п	</td>	<td>	шт	</td>	<td>	0,044	</td>	<td>	110	</td>	<td>	511,00	</td>	</tr>
+<tr>	<td>	2 ПБ-27-4п	</td>	<td>	шт	</td>	<td>	0,045	</td>	<td>	120	</td>	<td>	550,00	</td>	</tr>
+<tr>	<td>	2 ПБ-29-4п 	</td>	<td>	шт	</td>	<td>	0,048	</td>	<td>	120	</td>	<td>	575,00	</td>	</tr>
+<tr>	<td>	2 ПБ-30-4п	</td>	<td>	шт	</td>	<td>	0,05	</td>	<td>	130	</td>	<td>	592,00	</td>	</tr>
+<tr>	<td>	3 ПБ-13-37п	</td>	<td>	шт	</td>	<td>	0,034	</td>	<td>	90	</td>	<td>	403,00	</td>	</tr>
+<tr>	<td>	3 ПБ-16-37п	</td>	<td>	шт	</td>	<td>	0,041	</td>	<td>	110	</td>	<td>	528,00	</td>	</tr>
+<tr>	<td>	3 ПБ-18-37п	</td>	<td>	шт	</td>	<td>	0,048	</td>	<td>	120	</td>	<td>	629,00	</td>	</tr>
+<tr>	<td>	3 ПБ-18-8п	</td>	<td>	шт	</td>	<td>	0,048	</td>	<td>	120	</td>	<td>	427,00	</td>	</tr>
+<tr>	<td>	3 ПБ-21-8п	</td>	<td>	шт	</td>	<td>	0,055	</td>	<td>	140	</td>	<td>	521,00	</td>	</tr>
+<tr>	<td>	3 ПБ-25-8п	</td>	<td>	шт	</td>	<td>	0,065	</td>	<td>	170	</td>	<td>	595,00	</td>	</tr>
+<tr>	<td>	3 ПБ-27-8п	</td>	<td>	шт	</td>	<td>	0,072	</td>	<td>	190	</td>	<td>	726,00	</td>	</tr>
+<tr>	<td>	3 ПБ-30-8п	</td>	<td>	шт	</td>	<td>	0,079	</td>	<td>	210	</td>	<td>	804,00	</td>	</tr>
+<tr>	<td>	3 ПБ-34-4п	</td>	<td>	шт	</td>	<td>	0,089	</td>	<td>	230	</td>	<td>	833,00	</td>	</tr>
+<tr>	<td>	3 ПБ-36-4п	</td>	<td>	шт	</td>	<td>	0,096	</td>	<td>	250	</td>	<td>	972,00	</td>	</tr>
+<tr>	<td>	3 ПБ-39-8п	</td>	<td>	шт	</td>	<td>	0,103	</td>	<td>	270	</td>	<td>	1 424,00	</td>	</tr>
+<tr>	<td>	4 ПБ-44-8п	</td>	<td>	шт	</td>	<td>	0,154	</td>	<td>	400	</td>	<td>	1 724,00	</td>	</tr>
+<tr>	<td>	5 ПБ-18-27п	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	985,00	</td>	</tr>
+<tr>	<td>	5 ПБ-21-27п	</td>	<td>	шт	</td>	<td>	0,114	</td>	<td>	300	</td>	<td>	1 229,00	</td>	</tr>
+<tr>	<td>	5 ПБ-25-37п	</td>	<td>	шт	</td>	<td>	0,135	</td>	<td>	350	</td>	<td>	1 710,00	</td>	</tr>
+<tr>	<td>	5 ПБ-25-27п	</td>	<td>	шт	</td>	<td>	0,135	</td>	<td>	350	</td>	<td>	1 514,00	</td>	</tr>
+<tr>	<td>	5 ПБ-27-37п	</td>	<td>	шт	</td>	<td>	0,15	</td>	<td>	390	</td>	<td>	2 424,00	</td>	</tr>
+<tr>	<td>	5 ПБ-27-27п	</td>	<td>	шт	</td>	<td>	0,15	</td>	<td>	390	</td>	<td>	1 847,00	</td>	</tr>
+<tr>	<td>	5 ПБ-30-37п	</td>	<td>	шт	</td>	<td>	0,164	</td>	<td>	430	</td>	<td>	3 005,00	</td>	</tr>
+<tr>	<td>	5 ПБ-30-27п	</td>	<td>	шт	</td>	<td>	0,164	</td>	<td>	430	</td>	<td>	2 436,00	</td>	</tr>
+<tr>	<td>	5 ПБ-31-27п	</td>	<td>	шт	</td>	<td>	0,171	</td>	<td>	440	</td>	<td>	2 702,00	</td>	</tr>
+<tr>	<td>	5 ПБ-34-20п	</td>	<td>	шт	</td>	<td>	0,185	</td>	<td>	480	</td>	<td>	2 719,00	</td>	</tr>
+<tr>	<td>	5 ПБ-36-20п	</td>	<td>	шт	</td>	<td>	0,2	</td>	<td>	520	</td>	<td>	3 252,00	</td>	</tr>
+<tr>	<td>	6 ПБ-35-37	</td>	<td>	шт	</td>	<td>	0,254	</td>	<td>	660	</td>	<td>	4 073,00	</td>	</tr>
+<tr>	<td>	8 ПБ-10-1п	</td>	<td>	шт	</td>	<td>	0,011	</td>	<td>	30	</td>	<td>	281,00	</td>	</tr>
+<tr>	<td>	8 ПБ-13-1п	</td>	<td>	шт	</td>	<td>	0,014	</td>	<td>	40	</td>	<td>	318,00	</td>	</tr>
+<tr>	<td>	8 ПБ-16-1п	</td>	<td>	шт	</td>	<td>	0,017	</td>	<td>	40	</td>	<td>	312,00	</td>	</tr>
+<tr>	<td>	8 ПБ-17-2п	</td>	<td>	шт	</td>	<td>	0,018	</td>	<td>	50	</td>	<td>	292,00	</td>	</tr>
+<tr>	<td>	8 ПБ-19-3п	</td>	<td>	шт	</td>	<td>	0,021	</td>	<td>	50	</td>	<td>	380,00	</td>	</tr>
+<tr>	<td>	9 ПБ-25-8п	</td>	<td>	шт	</td>	<td>	0,056	</td>	<td>	150	</td>	<td>	682,00	</td>	</tr>
+<tr>	<td>	1 ПП 12-3	</td>	<td>	шт	</td>	<td>	0,03	</td>	<td>	80	</td>	<td>	401,00	</td>	</tr>
+<tr>	<td>	2 ПП 14-4	</td>	<td>	шт	</td>	<td>	0,08	</td>	<td>	210	</td>	<td>	640,00	</td>	</tr>
+<tr>	<td>	2 ПП 17-5	</td>	<td>	шт	</td>	<td>	0,095	</td>	<td>	250	</td>	<td>	724,00	</td>	</tr>
+<tr>	<td>	2 ПП 18-5	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	800,00	</td>	</tr>
+<tr>	<td>	2 ПП 21-6	</td>	<td>	шт	</td>	<td>	0,115	</td>	<td>	300	</td>	<td>	958,00	</td>	</tr>
+<tr>	<td>	2 ПП 23-7	</td>	<td>	шт	</td>	<td>	0,13	</td>	<td>	340	</td>	<td>	1 068,00	</td>	</tr>
+<tr>	<td>	2 ПП 25-8	</td>	<td>	шт	</td>	<td>	0,14	</td>	<td>	360	</td>	<td>	970,00	</td>	</tr>
+<tr>	<td>	3 ПП 14-71	</td>	<td>	шт	</td>	<td>	0,125	</td>	<td>	330	</td>	<td>	1 333,00	</td>	</tr>
+<tr>	<td>	3 ПП 16-71	</td>	<td>	шт	</td>	<td>	0,14	</td>	<td>	360	</td>	<td>	1 415,00	</td>	</tr>
+<tr>	<td>	3 ПП 18-71	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	1 801,00	</td>	</tr>
+<tr>	<td>	3 ПП 21-71	</td>	<td>	шт	</td>	<td>	0,18	</td>	<td>	470	</td>	<td>	2 180,00	</td>	</tr>
+<tr>	<td>	3 ПП 27-71	</td>	<td>	шт	</td>	<td>	0,24	</td>	<td>	620	</td>	<td>	3 940,00	</td>	</tr>
+<tr>	<td>	3 ПП 30-10	</td>	<td>	шт	</td>	<td>	0,265	</td>	<td>	690	</td>	<td>	2 177,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЛИТЫ ПЕРЕКРЫТИЯ													</th>	</tr>
+<tr>	<td>	2 ПГ 6-3 АV	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	6 677,00	</td>	</tr>
+<tr>	<td>	2 ПГ 6-5 АV	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	7 358,00	</td>	</tr>
+<tr>	<td>	2 ПГ 6-6 АV	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	7 693,00	</td>	</tr>
+<tr>	<td>	2 ПГ 6-6 Ат V	</td>	<td>	шт	</td>	<td>	0,49	</td>	<td>	1270	</td>	<td>	7 327,00	</td>	</tr>
+<tr>	<td>	4 ПГ 6-3 Ат V	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	7 460,00	</td>	</tr>
+<tr>	<td>	4 ПГ 6-4 Ат V	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	9 594,00	</td>	</tr>
+<tr>	<td>	4 ПГ 6-5 Ат V	</td>	<td>	шт	</td>	<td>	0,61	</td>	<td>	1590	</td>	<td>	10 013,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	СТУПЕНИ													</th>	</tr>
+<tr>	<td>	ЛС 9	</td>	<td>	шт	</td>	<td>	0,04	</td>	<td>	100	</td>	<td>	390,00	</td>	</tr>
+<tr>	<td>	ЛС 10	</td>	<td>	шт	</td>	<td>	0,044	</td>	<td>	110	</td>	<td>	412,00	</td>	</tr>
+<tr>	<td>	ЛС 11	</td>	<td>	шт	</td>	<td>	0,046	</td>	<td>	120	</td>	<td>	425,00	</td>	</tr>
+<tr>	<td>	ЛС 11-1	</td>	<td>	шт	</td>	<td>	0,046	</td>	<td>	120	</td>	<td>	520,00	</td>	</tr>
+<tr>	<td>	ЛС 12	</td>	<td>	шт	</td>	<td>	0,053	</td>	<td>	140	</td>	<td>	479,00	</td>	</tr>
+<tr>	<td>	ЛС 12-1	</td>	<td>	шт	</td>	<td>	0,053	</td>	<td>	140	</td>	<td>	564,00	</td>	</tr>
+<tr>	<td>	ЛС 13	</td>	<td>	шт	</td>	<td>	0,057	</td>	<td>	150	</td>	<td>	506,00	</td>	</tr>
+<tr>	<td>	ЛС 14	</td>	<td>	шт	</td>	<td>	0,06	</td>	<td>	160	</td>	<td>	540,00	</td>	</tr>
+<tr>	<td>	ЛС 14-1	</td>	<td>	шт	</td>	<td>	0,053	</td>	<td>	140	</td>	<td>	619,00	</td>	</tr>
+<tr>	<td>	ЛС 15	</td>	<td>	шт	</td>	<td>	0,066	</td>	<td>	170	</td>	<td>	588,00	</td>	</tr>
+<tr>	<td>	ЛС 15-1	</td>	<td>	шт	</td>	<td>	0,066	</td>	<td>	170	</td>	<td>	712,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	КАРНИЗЫ													</th>	</tr>
+<tr>	<td>	АК - 12.8	</td>	<td>	шт	</td>	<td>	0,072	</td>	<td>	190	</td>	<td>	1 442,00	</td>	</tr>
+<tr>	<td>	АК - 18.8	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	1 607,00	</td>	</tr>
+<tr>	<td>	АК - 21.8	</td>	<td>	шт	</td>	<td>	0,12	</td>	<td>	310	</td>	<td>	1 633,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ЛОТКИ													</td>	</tr>
+<tr>	<td>	Л 11-8	</td>	<td>	шт	</td>	<td>	0,72	</td>	<td>	1870	</td>	<td>	9 778,00	</td>	</tr>
+<tr>	<td>	Л 11-8 (L-1500)	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	5 264,00	</td>	</tr>
+<tr>	<td>	Л 11д-5	</td>	<td>	шт	</td>	<td>	0,18	</td>	<td>	470	</td>	<td>	2 322,00	</td>	</tr>
+<tr>	<td>	Л 15-8 (l-2580)	</td>	<td>	шт	</td>	<td>	0,856	</td>	<td>	2230	</td>	<td>	11 222,00	</td>	</tr>
+<tr>	<td>	Л 4-8/2 ( l-3000 )	</td>	<td>	шт	</td>	<td>	0,36	</td>	<td>	940	</td>	<td>	3 368,00	</td>	</tr>
+<tr>	<td>	Л 5-8	</td>	<td>	шт	</td>	<td>	0,44	</td>	<td>	1140	</td>	<td>	4 351,00	</td>	</tr>
+<tr>	<td>	Л 5д-8	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	1 615,00	</td>	</tr>
+<tr>	<td>	Л 6-8	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	5 484,00	</td>	</tr>
+<tr>	<td>	Л 6д-8	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	1 597,00	</td>	</tr>
+<tr>	<td>	Л 7-8 	</td>	<td>	шт	</td>	<td>	0,51	</td>	<td>	1330	</td>	<td>	6 014,00	</td>	</tr>
+<tr>	<td>	Л 7д-8	</td>	<td>	шт	</td>	<td>	0,125	</td>	<td>	330	</td>	<td>	3 827,00	</td>	</tr>
+<tr>	<td>	Л 10-8 ( l-3000 )	</td>	<td>	шт	</td>	<td>	0,66	</td>	<td>	1720	</td>	<td>	8 510,00	</td>	</tr>
+<tr>	<td>	ЛК 195	</td>	<td>	шт	</td>	<td>	0,195	</td>	<td>	510	</td>	<td>	4 105,00	</td>	</tr>
+<tr>	<td>	ЛК 210	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	4 313,00	</td>	</tr>
+<tr>	<td>	ЛБ 320	</td>	<td>	шт	</td>	<td>	0,32	</td>	<td>	830	</td>	<td>	4 802,00	</td>	</tr>
+<tr>	<td>	ЛК 75.90.60-4	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	3 518,00	</td>	</tr>
+<tr>	<td>	ЛК 300.90.60-3	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	4 162,00	</td>	</tr>
+<tr>	<td>	ЛК 300.90.60-4	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	4 426,00	</td>	</tr>
+<tr>	<td>	Лоток водоприемный l-1м	</td>	<td>	шт	</td>	<td>	0,046	</td>	<td>	120	</td>	<td>	511,00	</td>	</tr>
+<tr>	<td>	Лоток водоприемный l-3м	</td>	<td>	шт	</td>	<td>	0,138	</td>	<td>	360	</td>	<td>	1 600,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ЛЕСТНИЧНЫЕ МАРШИ													</th>	</tr>
+<tr>	<td>	ЛМ 27.11.14-4	</td>	<td>	шт	</td>	<td>	0,531	</td>	<td>	1380	</td>	<td>	5 176,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ЛЕСТНИЧНЫЕ ПЛОЩАДКИ													</th>	</tr>
+<tr>	<td>	2 ЛП 22.15-4к	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	4 549,00	</td>	</tr>
+<tr>	<td>	2 ЛП 22.18-4к	</td>	<td>	шт	</td>	<td>	0,58	</td>	<td>	1510	</td>	<td>	6 126,00	</td>	</tr>
+<tr>	<td>	2 ЛП 22.18-4к-М	</td>	<td>	шт	</td>	<td>	0,65	</td>	<td>	1690	</td>	<td>	6 552,00	</td>	</tr>
+<tr>	<td>	2 ЛП 22.15-4к-М	</td>	<td>	шт	</td>	<td>	0,485	</td>	<td>	1260	</td>	<td>	4 685,00	</td>	</tr>
+<tr>	<td>	2 ЛП 23.15-4к-М	</td>	<td>	шт	</td>	<td>	0,5	</td>	<td>	1300	</td>	<td>	4 813,00	</td>	</tr>
+<tr>	<td>	2 ЛП 23.18-4к-М	</td>	<td>	шт	</td>	<td>	0,67	</td>	<td>	1740	</td>	<td>	6 644,00	</td>	</tr>
+<tr>	<td>	ЛБ 24.3 -4	</td>	<td>	шт	</td>	<td>	0,26	</td>	<td>	680	</td>	<td>	2 915,00	</td>	</tr>
+<tr>	<td>	ЛБ 25.3 -4	</td>	<td>	шт	</td>	<td>	0,269	</td>	<td>	700	</td>	<td>	3 126,00	</td>	</tr>
+<tr>	<td>	ЛБ 1а	</td>	<td>	шт	</td>	<td>	0,32	</td>	<td>	830	</td>	<td>	3 562,00	</td>	</tr>
+<tr>	<td>	ЛП 15-3 ( серия 1.450-1 )	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	1 830,00	</td>	</tr>
+<tr>	<td>	ЛП 18-2 ( серия 1.450-1 )	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	2 810,00	</td>	</tr>
+<tr>	<td>	ЛП 18-3 ( серия 1.450-1 )	</td>	<td>	шт	</td>	<td>	0,22	</td>	<td>	570	</td>	<td>	2 282,00	</td>	</tr>
+<tr>	<td>	ЛП 18-4 ( серия 1.450-1 )	</td>	<td>	шт	</td>	<td>	0,186	</td>	<td>	480	</td>	<td>	2 048,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЛИТЫ ПЕРЕКРЫТИЯ ТЕПЛОТРАСС													</th>	</tr>
+<tr>	<td>	П 5-8	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	1 822,00	</td>	</tr>
+<tr>	<td>	П 5д-8	</td>	<td>	шт	</td>	<td>	0,04	</td>	<td>	100	</td>	<td>	458,00	</td>	</tr>
+<tr>	<td>	П 6-15	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	2 581,00	</td>	</tr>
+<tr>	<td>	П 6д-15	</td>	<td>	шт	</td>	<td>	0,07	</td>	<td>	180	</td>	<td>	786,00	</td>	</tr>
+<tr>	<td>	П 7д-5	</td>	<td>	шт	</td>	<td>	0,06	</td>	<td>	160	</td>	<td>	793,00	</td>	</tr>
+<tr>	<td>	П 8-8	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	3 132,00	</td>	</tr>
+<tr>	<td>	П 8д-8	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	869,00	</td>	</tr>
+<tr>	<td>	П 8-11	</td>	<td>	шт	</td>	<td>	0,35	</td>	<td>	910	</td>	<td>	4 142,00	</td>	</tr>
+<tr>	<td>	П 8д-11	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	1 114,00	</td>	</tr>
+<tr>	<td>	П 9-15	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	4 685,00	</td>	</tr>
+<tr>	<td>	П 11-8	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	5 088,00	</td>	</tr>
+<tr>	<td>	П 11д-8	</td>	<td>	шт	</td>	<td>	0,44	</td>	<td>	1140	</td>	<td>	1 315,00	</td>	</tr>
+<tr>	<td>	П 15-8	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	6 838,00	</td>	</tr>
+<tr>	<td>	П 15д-5	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	1 710,00	</td>	</tr>
+<tr>	<td>	П 15д-8	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	1 979,00	</td>	</tr>
+<tr>	<td>	П 18-15	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	3 023,00	</td>	</tr>
+<tr>	<td>	П 18д-8	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	3 323,00	</td>	</tr>
+<tr>	<td>	П 21-5	</td>	<td>	шт	</td>	<td>	0,24	</td>	<td>	620	</td>	<td>	12 617,00	</td>	</tr>
+<tr>	<td>	П 21д-5	</td>	<td>	шт	</td>	<td>	1,18	</td>	<td>	3070	</td>	<td>	3 205,00	</td>	</tr>
+<tr>	<td>	П 21-8	</td>	<td>	шт	</td>	<td>	0,29	</td>	<td>	750	</td>	<td>	14 836,00	</td>	</tr>
+<tr>	<td>	П 21д-8	</td>	<td>	шт	</td>	<td>	1,18	</td>	<td>	3070	</td>	<td>	3 833,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПРОГОНЫ													</th>	</tr>
+<tr>	<td>	ПРГ 21.1.3-4т	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	1 981,00	</td>	</tr>
+<tr>	<td>	ПРГ 30.1.4-4т	</td>	<td>	шт	</td>	<td>	0,19	</td>	<td>	490	</td>	<td>	2 726,00	</td>	</tr>
+<tr>	<td>	ПРГ 38.2.5-4т	</td>	<td>	шт	</td>	<td>	0,375	</td>	<td>	980	</td>	<td>	9 139,00	</td>	</tr>
+<tr>	<td>	ПРГ 39.2.5-4т	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	7 958,00	</td>	</tr>
+<tr>	<td>	ПРГ 40.2.5-4т	</td>	<td>	шт	</td>	<td>	0,4	</td>	<td>	1040	</td>	<td>	7 991,00	</td>	</tr>
+<tr>	<td>	ПРГ 41.2.5-4т	</td>	<td>	шт	</td>	<td>	0,41	</td>	<td>	1070	</td>	<td>	8 140,00	</td>	</tr>
+<tr>	<td>	ПРГ 42.2.5-4т	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	8 430,00	</td>	</tr>
+<tr>	<td>	ПРГ 47.2.5-4т	</td>	<td>	шт	</td>	<td>	0,47	</td>	<td>	1220	</td>	<td>	10 822,00	</td>	</tr>
+<tr>	<td>	ПРГ 48.2.5-4т	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	11 010,00	</td>	</tr>
+<tr>	<td>	ПРГ 50.2.5-4т	</td>	<td>	шт	</td>	<td>	0,5	</td>	<td>	1300	</td>	<td>	11 420,00	</td>	</tr>
+<tr>	<td>	ПРГ 54.2.5-4т	</td>	<td>	шт	</td>	<td>	0,54	</td>	<td>	1400	</td>	<td>	13 111,00	</td>	</tr>
+<tr>	<td>	ПРГ 56.2.5-4т	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	13 764,00	</td>	</tr>
+<tr>	<td>	ПРГ 60.2.5-4т	</td>	<td>	шт	</td>	<td>	0,6	</td>	<td>	1560	</td>	<td>	14 936,00	</td>	</tr>
+<tr>	<td>	ПРГ 60.2.5-4 A III	</td>	<td>	шт	</td>	<td>	0,6	</td>	<td>	1560	</td>	<td>	15 330,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПРОГОНЫ (серия 1.225-2, выпуск 11)													</th>	</tr>
+<tr>	<td>	ПРГ 26.1.3-4т	</td>	<td>	шт	</td>	<td>	0,095	</td>	<td>	250	</td>	<td>	2 020,00	</td>	</tr>
+<tr>	<td>	ПРГ 28.1.3-4т	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	2 123,00	</td>	</tr>
+<tr>	<td>	ПРГ 30.1.4-4т	</td>	<td>	шт	</td>	<td>	0,145	</td>	<td>	380	</td>	<td>	2 369,00	</td>	</tr>
+<tr>	<td>	ПРГ 32.1.4-4т	</td>	<td>	шт	</td>	<td>	0,153	</td>	<td>	400	</td>	<td>	2 504,00	</td>	</tr>
+<tr>	<td>	ПРГ 36.1.4-4т	</td>	<td>	шт	</td>	<td>	0,172	</td>	<td>	450	</td>	<td>	3 136,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПРОГОНЫ (серия 1.225-2, выпуск 12)													</th>	</tr>
+<tr>	<td>	ПРГ 28.1.3-4т А III	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	2 092,00	</td>	</tr>
+<tr>	<td>	ПРГ 32.1.4-4т А III	</td>	<td>	шт	</td>	<td>	0,153	</td>	<td>	400	</td>	<td>	2 453,00	</td>	</tr>
+<tr>	<td>	ПРГ 36.1.4-4т А III	</td>	<td>	шт	</td>	<td>	0,172	</td>	<td>	450	</td>	<td>	3 167,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ОПОРНЫЕ ПЛИТЫ													</th>	</tr>
+<tr>	<td>	ОП 1 (серия 3.006)	</td>	<td>	шт	</td>	<td>	0,004	</td>	<td>	10	</td>	<td>	163,00	</td>	</tr>
+<tr>	<td>	ОП 1 (серия 1.069.1)	</td>	<td>	шт	</td>	<td>	0,013	</td>	<td>	30	</td>	<td>	509,00	</td>	</tr>
+<tr>	<td>	ОП 2 (серия 3.006)	</td>	<td>	шт	</td>	<td>	0,0054	</td>	<td>	10	</td>	<td>	146,00	</td>	</tr>
+<tr>	<td>	ОП 2 (серия 1.069.1)	</td>	<td>	шт	</td>	<td>	0,018	</td>	<td>	50	</td>	<td>	608,00	</td>	</tr>
+<tr>	<td>	ОП 2 (13929-04)	</td>	<td>	шт	</td>	<td>	0,049	</td>	<td>	130	</td>	<td>	2 773,00	</td>	</tr>
+<tr>	<td>	ОП 3 (серия 3.006.1)	</td>	<td>	шт	</td>	<td>	0,015	</td>	<td>	40	</td>	<td>	275,00	</td>	</tr>
+<tr>	<td>	ОП 3 (серия 1.069.1)	</td>	<td>	шт	</td>	<td>	0,022	</td>	<td>	60	</td>	<td>	624,00	</td>	</tr>
+<tr>	<td>	ОП 4.2т	</td>	<td>	шт	</td>	<td>	0,014	</td>	<td>	40	</td>	<td>	221,00	</td>	</tr>
+<tr>	<td>	ОП 4.4т	</td>	<td>	шт	</td>	<td>	0,02	</td>	<td>	50	</td>	<td>	365,00	</td>	</tr>
+<tr>	<td>	ОП 5.4т	</td>	<td>	шт	</td>	<td>	0,03	</td>	<td>	80	</td>	<td>	509,00	</td>	</tr>
+<tr>	<td>	ОП 5.5	</td>	<td>	шт	</td>	<td>	0,04	</td>	<td>	100	</td>	<td>	671,00	</td>	</tr>
+<tr>	<td>	ОП 6.2т	</td>	<td>	шт	</td>	<td>	0,04	</td>	<td>	100	</td>	<td>	593,00	</td>	</tr>
+<tr>	<td>	ОП 6.4т	</td>	<td>	шт	</td>	<td>	0,05	</td>	<td>	130	</td>	<td>	758,00	</td>	</tr>
+<tr>	<td>	ОП 6.5т	</td>	<td>	шт	</td>	<td>	0,072	</td>	<td>	190	</td>	<td>	1 049,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	БОРДЮРЫ ДОРОЖНЫЕ													</th>	</tr>
+<tr>	<td>	Бр 95.30.15	</td>	<td>	шт	</td>	<td>	0,039	</td>	<td>	100	</td>	<td>	348,00	</td>	</tr>
+<tr>	<td>	Бр 100.30.15	</td>	<td>	шт	</td>	<td>	0,043	</td>	<td>	110	</td>	<td>	373,00	</td>	</tr>
+<tr>	<td>	Бр 100.15.15	</td>	<td>	шт	</td>	<td>	0,021	</td>	<td>	50	</td>	<td>	234,00	</td>	</tr>
+<tr>	<td>	Бр 300.30.15	</td>	<td>	шт	</td>	<td>	0,126	</td>	<td>	330	</td>	<td>	1 378,00	</td>	</tr>
+<tr>	<td>	Бр 300.45.16	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	2 464,00	</td>	</tr>
+<tr>	<td>	Бр 300.60.20	</td>	<td>	шт	</td>	<td>	0,351	</td>	<td>	910	</td>	<td>	3 767,00	</td>	</tr>
+<tr>	<td>	Бр 600.60.20 	</td>	<td>	шт	</td>	<td>	0,705	</td>	<td>	1830	</td>	<td>	11 933,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ДОРОЖНЫЕ ПЛИТЫ													</th>	</tr>
+<tr>	<td>	1 П 18.15.30	</td>	<td>	шт	</td>	<td>	0,41	</td>	<td>	1070	</td>	<td>	5 348,00	</td>	</tr>
+<tr>	<td>	1 П 18.18.30	</td>	<td>	шт	</td>	<td>	0,48	</td>	<td>	1250	</td>	<td>	6 480,00	</td>	</tr>
+<tr>	<td>	1 П 18.28.30	</td>	<td>	шт	</td>	<td>	0,815	</td>	<td>	2120	</td>	<td>	9 334,00	</td>	</tr>
+<tr>	<td>	1 П 28.18.10	</td>	<td>	шт	</td>	<td>	0,815	</td>	<td>	2120	</td>	<td>	8 531,00	</td>	</tr>
+<tr>	<td>	1 П 30.15.30	</td>	<td>	шт	</td>	<td>	0,77	</td>	<td>	2000	</td>	<td>	9 244,00	</td>	</tr>
+<tr>	<td>	1 П 30.18.10	</td>	<td>	шт	</td>	<td>	0,88	</td>	<td>	2290	</td>	<td>	9 264,00	</td>	</tr>
+<tr>	<td>	1 П 30.18.30	</td>	<td>	шт	</td>	<td>	0,88	</td>	<td>	2290	</td>	<td>	10 426,00	</td>	</tr>
+<tr>	<td>	2 П 30.18.10	</td>	<td>	шт	</td>	<td>	0,88	</td>	<td>	2290	</td>	<td>	8 274,00	</td>	</tr>
+<tr>	<td>	2 П 30.18.30	</td>	<td>	шт	</td>	<td>	0,88	</td>	<td>	2290	</td>	<td>	8 828,00	</td>	</tr>
+<tr>	<td>	2 П 30.15.30	</td>	<td>	шт	</td>	<td>	0,755	</td>	<td>	1960	</td>	<td>	7 864,00	</td>	</tr>
+<tr>	<td>	2 П 18.28.10	</td>	<td>	шт	</td>	<td>	0,815	</td>	<td>	2120	</td>	<td>	8 069,00	</td>	</tr>
+<tr>	<td>	ПД 2-6	</td>	<td>	шт	</td>	<td>	0,75	</td>	<td>	1950	</td>	<td>	8 920,00	</td>	</tr>
+<tr>	<td>	ПАГ - 14 V	</td>	<td>	шт	</td>	<td>	1,68	</td>	<td>	4370	</td>	<td>	19 223,00	</td>	</tr>
+<tr>	<td>	ПДН 6х2х0,14	</td>	<td>	шт	</td>	<td>	1,68	</td>	<td>	4370	</td>	<td>	17 412,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ПЛИТЫ ОГРАЖДЕНИЯ (забор)													</th>	</tr>
+<tr>	<td>	ПО - 2 (забор)	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	5 792,00	</td>	</tr>
+<tr>	<td>	ФО - 2 (забор)	</td>	<td>	шт	</td>	<td>	0,37	</td>	<td>	960	</td>	<td>	2 134,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	КОЛОДЕЗНЫЕ КОЛЬЦА  КЦ													</th>	</tr>
+<tr>	<td>	КЦ 10-3	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	722,00	</td>	</tr>
+<tr>	<td>	КЦ 10-4	</td>	<td>	шт	</td>	<td>	0,12	</td>	<td>	310	</td>	<td>	902,00	</td>	</tr>
+<tr>	<td>	КЦ 10-5	</td>	<td>	шт	</td>	<td>	0,15	</td>	<td>	390	</td>	<td>	1 046,00	</td>	</tr>
+<tr>	<td>	КЦ 10-6	</td>	<td>	шт	</td>	<td>	0,18	</td>	<td>	470	</td>	<td>	1 255,00	</td>	</tr>
+<tr>	<td>	КЦ 10-6 с дном	</td>	<td>	шт	</td>	<td>	0,295	</td>	<td>	770	</td>	<td>	2 938,00	</td>	</tr>
+<tr>	<td>	КЦ 10-7	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	1 397,00	</td>	</tr>
+<tr>	<td>	КЦ 10-8	</td>	<td>	шт	</td>	<td>	0,24	</td>	<td>	620	</td>	<td>	1 535,00	</td>	</tr>
+<tr>	<td>	КЦ 10-9	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	1 745,00	</td>	</tr>
+<tr>	<td>	КЦ 10-9 с дном	</td>	<td>	шт	</td>	<td>	0,39	</td>	<td>	1010	</td>	<td>	3 570,00	</td>	</tr>
+<tr>	<td>	КЦ 15-3	</td>	<td>	шт	</td>	<td>	0,14	</td>	<td>	360	</td>	<td>	1 158,00	</td>	</tr>
+<tr>	<td>	КЦ 15-4	</td>	<td>	шт	</td>	<td>	0,17	</td>	<td>	440	</td>	<td>	1 394,00	</td>	</tr>
+<tr>	<td>	КЦ 15-6	</td>	<td>	шт	</td>	<td>	0,265	</td>	<td>	690	</td>	<td>	1 830,00	</td>	</tr>
+<tr>	<td>	КЦ 15-7	</td>	<td>	шт	</td>	<td>	0,29	</td>	<td>	750	</td>	<td>	2 044,00	</td>	</tr>
+<tr>	<td>	КЦ 15-9	</td>	<td>	шт	</td>	<td>	0,4	</td>	<td>	1040	</td>	<td>	2 518,00	</td>	</tr>
+<tr>	<td>	КЦ 15-9 с дном	</td>	<td>	шт	</td>	<td>	0,665	</td>	<td>	1730	</td>	<td>	5 279,00	</td>	</tr>
+<tr>	<td>	КЦ 20-4	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	2 236,00	</td>	</tr>
+<tr>	<td>	КЦ 20-5	</td>	<td>	шт	</td>	<td>	0,51	</td>	<td>	1330	</td>	<td>	2 761,00	</td>	</tr>
+<tr>	<td>	КЦ 20-6	</td>	<td>	шт	</td>	<td>	0,62	</td>	<td>	1610	</td>	<td>	3 455,00	</td>	</tr>
+<tr>	<td>	КЦ 20-7	</td>	<td>	шт	</td>	<td>	0,72	</td>	<td>	1870	</td>	<td>	3 767,00	</td>	</tr>
+<tr>	<td>	КЦ 20-9	</td>	<td>	шт	</td>	<td>	0,93	</td>	<td>	2420	</td>	<td>	4 916,00	</td>	</tr>
+<tr>	<td>	КЦ 20-9 с дном	</td>	<td>	шт	</td>	<td>	1,34	</td>	<td>	3480	</td>	<td>	8 768,00	</td>	</tr>
+<tr>	<td>	КЦО - 1 (сер.3.900-3)	</td>	<td>	шт	</td>	<td>	0,02	</td>	<td>	50	</td>	<td>	355,00	</td>	</tr>
+<tr>	<td>	КО - 6 (сер..3.900.1-14)	</td>	<td>	шт	</td>	<td>	0,02	</td>	<td>	50	</td>	<td>	355,00	</td>	</tr>
+<tr>	<td>	СБ -7А1, h-350	</td>	<td>	шт	</td>	<td>	0,105	</td>	<td>	270	</td>	<td>	895,00	</td>	</tr>
+<tr>	<td>	СБ -7А1, h-300 ( КС 7.3 )	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	701,00	</td>	</tr>
+<tr>	<td>	СБ -7А1, h-250	</td>	<td>	шт	</td>	<td>	0,075	</td>	<td>	200	</td>	<td>	733,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	КОЛОДЕЗНЫЕ КОЛЬЦА КС													</th>	</tr>
+<tr>	<td>	КС 10.3	</td>	<td>	шт	</td>	<td>	0,09	</td>	<td>	230	</td>	<td>	685,00	</td>	</tr>
+<tr>	<td>	КС 10.4	</td>	<td>	шт	</td>	<td>	0,12	</td>	<td>	310	</td>	<td>	846,00	</td>	</tr>
+<tr>	<td>	КС 10.5	</td>	<td>	шт	</td>	<td>	0,15	</td>	<td>	390	</td>	<td>	979,00	</td>	</tr>
+<tr>	<td>	КС 10.6	</td>	<td>	шт	</td>	<td>	0,18	</td>	<td>	470	</td>	<td>	1 176,00	</td>	</tr>
+<tr>	<td>	КС 10.7	</td>	<td>	шт	</td>	<td>	0,21	</td>	<td>	550	</td>	<td>	1 306,00	</td>	</tr>
+<tr>	<td>	КС 10.8	</td>	<td>	шт	</td>	<td>	0,24	</td>	<td>	620	</td>	<td>	1 457,00	</td>	</tr>
+<tr>	<td>	КС 10.9	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	1 632,00	</td>	</tr>
+<tr>	<td>	КС 15.3	</td>	<td>	шт	</td>	<td>	0,13	</td>	<td>	340	</td>	<td>	988,00	</td>	</tr>
+<tr>	<td>	КС 15.4	</td>	<td>	шт	</td>	<td>	0,175	</td>	<td>	460	</td>	<td>	1 229,00	</td>	</tr>
+<tr>	<td>	КС 15.5	</td>	<td>	шт	</td>	<td>	0,22	</td>	<td>	570	</td>	<td>	1 459,00	</td>	</tr>
+<tr>	<td>	КС 15.6	</td>	<td>	шт	</td>	<td>	0,265	</td>	<td>	690	</td>	<td>	1 739,00	</td>	</tr>
+<tr>	<td>	КС 15.7	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	1 925,00	</td>	</tr>
+<tr>	<td>	КС 15.8	</td>	<td>	шт	</td>	<td>	0,355	</td>	<td>	920	</td>	<td>	2 150,00	</td>	</tr>
+<tr>	<td>	КС 15.9	</td>	<td>	шт	</td>	<td>	0,4	</td>	<td>	1040	</td>	<td>	2 387,00	</td>	</tr>
+<tr>	<td>	КС 20.3	</td>	<td>	шт	</td>	<td>	0,305	</td>	<td>	790	</td>	<td>	1 684,00	</td>	</tr>
+<tr>	<td>	КС 20.4	</td>	<td>	шт	</td>	<td>	0,41	</td>	<td>	1070	</td>	<td>	2 184,00	</td>	</tr>
+<tr>	<td>	КС 20.5	</td>	<td>	шт	</td>	<td>	0,51	</td>	<td>	1330	</td>	<td>	2 660,00	</td>	</tr>
+<tr>	<td>	КС 20.6	</td>	<td>	шт	</td>	<td>	0,62	</td>	<td>	1610	</td>	<td>	3 223,00	</td>	</tr>
+<tr>	<td>	КС 20.7	</td>	<td>	шт	</td>	<td>	0,72	</td>	<td>	1870	</td>	<td>	3 649,00	</td>	</tr>
+<tr>	<td>	КС 20.8	</td>	<td>	шт	</td>	<td>	0,825	</td>	<td>	2150	</td>	<td>	4 103,00	</td>	</tr>
+<tr>	<td>	КС 20.9	</td>	<td>	шт	</td>	<td>	0,93	</td>	<td>	2420	</td>	<td>	4 578,00	</td>	</tr>
+<tr>	<td>	КП 25.20-10	</td>	<td>	шт	</td>	<td>	1,3	</td>	<td>	3380	</td>	<td>	12 058,00	</td>	</tr>
+<tr>	<td>	КП 25.20-10 с дном	</td>	<td>	шт	</td>	<td>	1,7	</td>	<td>	4420	</td>	<td>	17 984,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ДНО КОЛОДЦА КЦД													</th>	</tr>
+<tr>	<td>	КЦД 10-2 	</td>	<td>	шт	</td>	<td>	0,16	</td>	<td>	420	</td>	<td>	1 596,00	</td>	</tr>
+<tr>	<td>	КЦД 15-2	</td>	<td>	шт	</td>	<td>	0,34	</td>	<td>	880	</td>	<td>	3 103,00	</td>	</tr>
+<tr>	<td>	КЦД 20-2	</td>	<td>	шт	</td>	<td>	0,57	</td>	<td>	1480	</td>	<td>	4 793,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	ДНО КОЛОДЦА ПН													</th>	</tr>
+<tr>	<td>	ПН 10	</td>	<td>	шт	</td>	<td>	0,11	</td>	<td>	290	</td>	<td>	1 644,00	</td>	</tr>
+<tr>	<td>	ПН 15	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	3 380,00	</td>	</tr>
+<tr>	<td>	ПН 20	</td>	<td>	шт	</td>	<td>	0,46	</td>	<td>	1200	</td>	<td>	6 610,00	</td>	</tr>
+<tr>	<td>	ПН 25.20	</td>	<td>	шт	</td>	<td>	0,72	</td>	<td>	1870	</td>	<td>	8 292,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	КРЫШКА КОЛОДЦА КЦП													</th>	</tr>
+<tr>	<td>	КЦП 1-10-2 с отв 	</td>	<td>	шт	</td>	<td>	0,123	</td>	<td>	320	</td>	<td>	2 174,00	</td>	</tr>
+<tr>	<td>	КЦП 2-10-1 с отв.	</td>	<td>	шт	</td>	<td>	0,18	</td>	<td>	470	</td>	<td>	1 633,00	</td>	</tr>
+<tr>	<td>	КЦП 2-10-2 с отв. 	</td>	<td>	шт	</td>	<td>	0,125	</td>	<td>	330	</td>	<td>	1 388,00	</td>	</tr>
+<tr>	<td>	КЦП 1-15-1 с отв.	</td>	<td>	шт	</td>	<td>	0,28	</td>	<td>	730	</td>	<td>	3 138,00	</td>	</tr>
+<tr>	<td>	КЦП 1-15-2 с отв.	</td>	<td>	шт	</td>	<td>	0,3	</td>	<td>	780	</td>	<td>	3 829,00	</td>	</tr>
+<tr>	<td>	КЦП 2-15-1 с отв.	</td>	<td>	шт	</td>	<td>	0,42	</td>	<td>	1090	</td>	<td>	3 671,00	</td>	</tr>
+<tr>	<td>	КЦП 2-15-2 с отв.	</td>	<td>	шт	</td>	<td>	0,31	</td>	<td>	810	</td>	<td>	3 430,00	</td>	</tr>
+<tr>	<td>	КЦП 2-20-1 с отв.	</td>	<td>	шт	</td>	<td>	0,64	</td>	<td>	1660	</td>	<td>	5 816,00	</td>	</tr>
+<tr>	<td>	КЦП 2-20-2 с отв.	</td>	<td>	шт	</td>	<td>	0,53	</td>	<td>	1380	</td>	<td>	6 835,00	</td>	</tr>
+<tr>	<td>	КЦП 2-20-2 с 2 отв.	</td>	<td>	шт	</td>	<td>	0,59	</td>	<td>	1530	</td>	<td>	6 967,00	</td>	</tr>
+<tr>	<td>	ПП 10-1	</td>	<td>	шт	</td>	<td>	0,1	</td>	<td>	260	</td>	<td>	1 168,00	</td>	</tr>
+<tr>	<td>	1 ПП 15-1	</td>	<td>	шт	</td>	<td>	0,27	</td>	<td>	700	</td>	<td>	3 156,00	</td>	</tr>
+<tr>	<td>	1 ПП 20-1	</td>	<td>	шт	</td>	<td>	0,51	</td>	<td>	1330	</td>	<td>	5 950,00	</td>	</tr>
+<tr>	<td>	2 ПП 20-1	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	6 072,00	</td>	</tr>
+<tr>	<td>	2 ПП 20-2	</td>	<td>	шт	</td>	<td>	0,45	</td>	<td>	1170	</td>	<td>	7 032,00	</td>	</tr>
+<tr>	<td>	ПП 25.20	</td>	<td>	шт	</td>	<td>	0,56	</td>	<td>	1460	</td>	<td>	8 896,00	</td>	</tr>
+<tr>	<th colspan="5"  Style="background: #ffe17f; color: #33747a;">	Стаканы для крепления вентиляторов, дефлекторов													</th>	</tr>
+<tr>	<td>	СБ 4А - 1	</td>	<td>	шт	</td>	<td>	0,06	</td>	<td>	160	</td>	<td>	1 768,00	</td>	</tr>
+<tr>	<td>	СБ 7А - 1	</td>	<td>	шт	</td>	<td>	0,12	</td>	<td>	310	</td>	<td>	2 197,00	</td>	</tr>
+</tbody>	
+</table>	
+
+   						 <!-- <a class="btn btn-default btn" style="margin-top: 10px; position: relative; margin: 0px 20px;" href="#" class="disabled target="blank"><i class="fa fa-download"></i>&nbsp;&nbsp;&nbsp; Скачать прайс-лист &nbsp;&nbsp;&nbsp;</a><br> -->
+						 <br>
+							<p style="line-height: 1.2; text-align: center; padding: 0px 10px;">*в зависимости от объема покупок и условий предоплаты возможны скидки !!!<br><br><br>
+							
+							Можгинское строительное объединение выпускает более 1000 наименований продукции,
+							а так же нестандартные изделия по индивидуальному заказу.<br><br>
+							Вся продукция прошла испытания аттестованной строительной лабораторией.<br><br><br>
+							
+							<!-- Цена указана ЗА НАЛИЧНЫЙ РАСЧЕТ. --></p>
+                        </div>
+						<div class="page"  style="padding: 0px 20px;">
+							<div class="col-md-12" style="background:#e7e7e7;position: relative; top: 30px;"></div>
+							<h2 style="color: #2f383d;  padding-top: 55px; font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;"   class="header-line">СОПУТСТВУЮЩИЕ УСЛУГИ</h2>
+						</div> 
+						<div class="content" style="position: relative; padding: 0px 20px;"><BR>			  
+							<div class="row flexed" style="margin: 0px;">
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic00_20.jpg" alt="Продажа бетона"  style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>СУХИХ СМЕСЕЙ</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем сухие строительные смеси разного качества и в разных количествах для своих потребителей.</p><BR><BR>
+										</div>
+									</div>	
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic2.jpg" alt="Продажа нерудных материалов" style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ПРОДАЖА<br>НЕРУДНЫХ МАТЕРИАЛОВ</p><hr>
+											<p style="line-height: 1.3;">Мы продаем и поставляем нерудные материалы разного качества и в разных количествах для своих потребителей.</p><BR><BR>
+										</div>
+									</div>
+								</div>
+								<div class="col-sm-4">
+									<div class="pic-panel-horizont">
+										<div class="pic-panel-horizont__pic">
+											<img src="../assets/img/company/serv-pic3.jpg" alt="Изготовление ЖБИ изделий по чертежам заказчика" style="margin-top: 0px; margin-bottom: 0px;">
+										</div>
+										<div class="pic-panel-horizont__txt">
+											<p style="font-weight: 500; font-size: 14px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;">ИЗГОТОВЛЕНИЕ ЖБИ<br>ПО ЧЕРТEЖАМ ЗАКАЗЧИКА</p><hr>
+											<p style="line-height: 1.3;">Мы производим различные изделия по чертежам заказчика в соответствии с индивидуальными требованиями проекта. </p><BR>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+							<div class="modal-foot"><hr>
+								<button type="button" class="btn btn-default" data-dismiss="modal">&nbsp;&nbsp;&nbsp;Выйти&nbsp;&nbsp;&nbsp;</button>
+								<!--  <button type="button" class="btn btn-primary">Save changes</button> -->
+							</div>
+					</div>
+					<!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog-full-->
+            </div>
+		</div>
+	</div>
+</div>
+
+		
+										

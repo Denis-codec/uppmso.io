@@ -1,0 +1,10 @@
+<div id="pre-header" class="background-gray-lighter hidden-xs">
+    <div class="container no-padding">             
+		<div class="col-sm-7 padding-vert-5">
+			<i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <strong>Отдел&nbsp;продаж:</strong> &nbsp; 8(909)067-90-00
+		</div>
+		<div class="col-sm-5 text-right padding-vert-5">
+			<i class="fa fa-envelope" aria-hidden="true"></i> &nbsp; <strong>Email:</strong>&nbsp;info@uppmso.ru &nbsp; &nbsp; <a class="btn btn-social-icon btn-xs btn-vk"><span class="fa fa-vk"></span></a>
+		</div>
+	</div>
+</div>

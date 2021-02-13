@@ -1,0 +1,586 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="description" content="Бетон с доставкой в Можге, производство железобетонных изделий, сухие строительные смеси, асфальт, плиты перекрытия, блоки ФБС, кольца колодезные, перемычки, тротуарная плитка,кольца колодезные, КЦ, кирпич, бетон в можге, купить в можге">
+	<meta name="keywords" content="купить в можге, бетон, раствор, жби, сухие строительные смеси, асфальт, тротуарная плитка, можга, можге, оао мсо, в можге, кольца, плиты, фбс, перемычки, сваи, крышки, донышки, сетка кладочная, тротуарная плитка, стройматериалы, фундамент, ижевск, алнаши">
+    <meta name="author" content="Дурновцев Денис Петрович">
+    <title>АО Можгинское строительное объединение - Управление промышленных производств, бетон, жби, сухие смеси, асфальт, кирпич, с доставкой по городу можга и району.</title>
+    <!-- BOOTSTRAP CORE STYLE CSS -->
+		<link href="../assets/css/bootstrap.css" rel="stylesheet" />
+    <!-- FONT AWESOME CSS -->
+		<link href="../assets/css/font-awesome.min.css" rel="stylesheet" />
+    <!-- FLEXSLIDER CSS -->
+		<link href="../assets/css/flexslider.css" rel="stylesheet" />
+    <!-- CUSTOM STYLE CSS -->
+		<link href="../assets/css/style.css" rel="stylesheet" />
+	<!-- MOBILE MENU STYLE CSS -->	
+<link href="../assets/css/right-nav-style.css" rel="stylesheet" />
+	<!-- CATALOG STYLE CSS -->			
+<link href="../assets/css/nexus.css" rel="stylesheet" />
+	<!-- TABLE STYLE CSS -->
+<link href="../assets/css/table.css" rel="stylesheet" />
+	<!-- Google	Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css' />
+	<!-- favicon -->	
+		<link rel="shortcut icon" href="../assets/img/favicon.ico">
+	<!--  Jquery Core Script -->
+		<script src="../assets/js/jquery-1.10.2.js"></script>
+    <!--  Core Bootstrap Script -->
+		<script src="../assets/js/bootstrap.js"></script>
+    <!--  Flexslider Scripts --> 
+        <script src="../assets/js/jquery.flexslider.js"></script>
+    <!--  Scrolling Reveal Script -->
+		<script src="../assets/js/scrollReveal.js"></script>
+    <!--  Scroll Scripts --> 
+		<script src="../assets/js/jquery.easing.min.js"></script>
+    <!--  Custom Scripts --> 
+        <script src="../assets/js/custom.js"></script>
+<script type="text/javascript"src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>		
+ </head>
+<body > 
+
+<div class="navbar navbar-inverse navbar-fixed-top " id="menu">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://m.uppmso.ru"><img class="logo-custom" src="../assets/img/logo180-50.png" alt=""  /></a>
+            </div>
+            <div class="navbar-collapse collapse move-me">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="http://m.uppmso.ru">ГЛАВНАЯ</a></li>
+                    <li><a href="http://m.uppmso.ru/#features-sec">О КОМПАНИИ</a></li>
+					<li><a href="http://m.uppmso.ru/#catalog">КАТАЛОГ</a></li>
+                    <li><a href="#faculty-sec">FACULTY</a></li>
+                    <li><a href="#course-sec">COURSES</a></li>
+                    <li><a href="#contact-sec">КОНТАКТЫ</a></li>
+                </ul>
+            </div>
+        </div>
+</div>
+ <input type="checkbox" id="navi-toggle" hidden>
+ <nav class="navi">
+ <label for="navi-toggle" class="navi-toggle" onclick></label>
+ <h2 class="logo"> 
+            <a href="//uppmso.ru/">КАТАЛОГ</a> 
+        </h2>
+		<!--#include virtual="../assets/include/menu-mobile.txt"-->
+		
+        </nav>
+	<div class="mask-content"></div>
+	
+
+<!--/HEADER LINE-->   
+<div id="features-sec" class="container set-pad" >
+    <div class="row text-center">
+        <div class="col-md-12">
+            <div class="headline">
+                                       
+                                    </div>
+                                    <h1 data-scroll-reveal="enter from the bottom after 0.2s"  class="header-line">КАТАЛОГ ПРОДУКЦИИ</h1>
+	</div>
+</div>
+</div>
+<!--/#HEADER LINE-->
+									<div id="content">
+                <div class="container background-white">
+                    <div class="row margin-vert-0">
+                        <!-- Begin Sidebar Menu -->
+                        <div class="col-md-12">      
+<ul class="nav-tabs"> 
+<hr>
+</ul> 
+<ul class="nav nav-tabs">
+        	<li><a href="#">&nbsp;Главная&nbsp;</a></li>
+        	<li><a href="#">&nbsp;Каталог&nbsp;</a></li>
+        	<li><a href="#">&nbsp;Железобетонные изделия&nbsp;</a></li>
+        	<li class="active"><a href="#">&nbsp;Блоки бетонные для стен подвалов&nbsp;</a></li>
+			
+			<li><a href="#"><i class="fa-download"></i>&nbsp;СКАЧАТЬ ПРАЙС ЛИСТ&nbsp;&nbsp;</a></li>	
+        </ul>
+
+                        </div>
+                        </div>
+						</div>
+						</div>
+						
+
+<div id="content">
+                <div class="container background-white">
+                    <div class="row margin-vert-5">
+                        <!-- Begin Sidebar Menu -->
+                        <div class="col-md-3 hidden-xs">
+                            <!--#include virtual="../assets/include/menu-site.txt"-->
+							<!-- Recent Posts -->
+							<div class="hidden-xs hidden-sm">
+                            <div class="panel panel-aqua">
+                                <div class="panel-heading">
+                                    <h4 class="panel-title">СПЕЦПРЕДЛОЖЕНИЕ</h4>
+                                </div>
+                                <div class="panel-body">
+                                    <ul class="posts-list margin-top-10">
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/blok.png" alt="thumb1">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Блок керамзитобетонный<br>от 25,00 рублей.</a>
+                                                
+                                                <span class="recent-post-date">
+                                                    от 25,00 рублей.
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/Plity-ZhBI.png" alt="thumb2">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Плита пустотная ПК 63.15-8т</a>
+                                              
+                                                <span class="recent-post-date">
+                                                    от 9 025,00 рублей.
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/kolca-ZhBI.png" alt="thumb3">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Кольца колодезные</a>
+                                                
+                                                <span class="recent-post-date">
+                                                    от 1 050,00 рублей.
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/meshki.png" alt="thumb4">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Сухая строительная смесь в ассортименте</a>
+                                               
+                                                <span class="recent-post-date">
+                                                    от 125,00 рублей.
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+							</div>
+                        </div>
+                        <!-- End Sidebar Menu -->
+                        <div class="col-md-9">
+                            <h4 class="margin-bottom-10">&nbsp;&nbsp;&nbsp;Железобетонные изделия</h4>
+                            <!-- Accordion -->
+                            <div id="accordion" class="panel-group">
+                                <div class="panel panel-success">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="accordion">
+                                                Плиты железобетонные ленточных фундаментов, ГОСТ 13580-85
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse-One" class="accordion-body collapse in">
+                                        <div class="panel-body">
+                                            <div class="row">
+                                                <div class="col-md-5">
+                                                    <img src="../assets/img/catalog/fbc_1.jpg" alt="filler image">
+                                                </div>
+                                                <div class="col-md-7">
+                                                    <h5 class="no-margin no-padding"> 	Образец маркировки ФБС 24.6.6 т, где:</h5><br>
+                                                    <p>ФБС - (тип) фундаментный блок сплошной,<br>                                           
+														24 - длина (дм),<br>
+														6- ширина (дм),<br>
+														6 -высота (дм).<br>
+														т - вид бетона (тяжелый).</p></h5>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="panel panel-success">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <a class="accordion">
+                                                Цены на фундаментные блоки ФБС
+                                            </a>
+                                        </h4>
+                                    </div>
+                                    <div id="collapse-One" class="accordion-body collapse in">
+                                        <div class="panel-body">
+                                           <table class="table table-striped table-bordered table-hover"> <!-- <table class="table table-bordered">  -->
+
+				
+<tr><th>Продукция</th><th>Ед.<br>изм.</th><th>"Размеры, мм<br>L х B х H"</th><th>"Масса,<br>тн"</th><th>Цена<br>с НДС</th></tr>
+<tbody>	
+<tr><td>ФБС 24.3.6-т</td><td>шт.</td> <td>2380х300х580</td>              <td>1,09</td>          <td>1 500,00</td></tr>		
+
+
+
+
+
+		
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+<tr>		
+<td>	 ФБС 24.3.6-т	</td>
+<td>	шт.	</td>
+<td>	2380х300х580	</td>
+<td>	1,09	</td>
+<td>	1 500,00	</td>
+</tr>
+</tbody>
+</table>
+                                        </div>
+                                    </div>
+                                </div>
+                          <div class="text-center">
+                   
+                    <h4><sup  data-scroll-reveal="enter from the bottom after 2s" >
+   					<br>Цены действительны при условии 100% предоплаты и вывоза в течении
+					10 календарных дней с момента изготовления продукции!<br>
+					Цены на предлагаемую нами продукцию могут изменяться по договоренности сторон в зависимости от условий
+					сотрудничества и объема заказа.<br>
+					Для постоянных клиентов нашей компании действует гибкая система скидок.
+                    </h4></sup>
+                </div>
+            </div>
+</div>	 
+</div>
+</div>	 			
+                      
+					
+						
+                    </div>
+				<!-- === BEGIN CONTENT === -->
+            <div id="content">
+                <div class="container background-white">
+                    <div class="row margin-vert">
+                        <!-- Side Column -->
+                        <div class="col-md-3">
+                            <!-- Recent Posts -->
+                            <div class="panel panel-info">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Новости и объявления</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <ul class="posts-list margin-top-10">
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/thumb1.jpg" alt="thumb1">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Sidebar post example</a>
+                                                <br>
+                                                <span class="recent-post-date">
+                                                    July 30, 2013
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/thumb2.jpg" alt="thumb2">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Sidebar post example</a>
+                                                <br>
+                                                <span class="recent-post-date">
+                                                    July 30, 2013
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/thumb3.jpg" alt="thumb3">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Sidebar post example</a>
+                                                <br>
+                                                <span class="recent-post-date">
+                                                    July 30, 2013
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                        <li>
+                                            <div class="recent-post">
+                                                <a href="">
+                                                    <img class="pull-left" src="../assets/img/reklama/thumb4.jpg" alt="thumb4">
+                                                </a>
+                                                <a href="#" class="posts-list-title">Sidebar post example</a>
+                                                <br>
+                                                <span class="recent-post-date">
+                                                    July 30, 2013
+                                                </span>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- End recent Posts -->
+                            <!-- About -->
+                            <div class="panel panel-success">
+                                <div class="panel-heading">
+                                    <h3 class="panel-title">Уважаемый Посетитель!!!</h3>
+                                </div>
+                                <div class="panel-body">
+<h4><small>В настоящее время производится пополнение прейскуранта!
+Для получения точной информации о ценах обращайтесь,пожалуйста, по телефону:<br>
+
+8(909)067-90-00<br>  
+
+или написать нам на E-mail:<br>
+
+  info@uppmso.ru  </h4></small>
+
+                                </div>
+                            </div>
+                            <!-- End About -->
+                        </div>
+                        <!-- End Side Column -->
+                        <!-- Main Column -->
+                        <div class="col-md-9">
+                            <!-- Main Content -->
+                            <h2>Left Side Column</h2>
+                            <p>LАО "МСО" — один из ведущих производителей качественных строительных материалов в Удмуртской Республике. Команда высококвалифицированных специалистов, мощная производственная база,
+							передовые технологии - все это позволяет качественно и в срок удовлетворять любые потребности строителей не только Удмуртии, но и других регионов России.</p>
+                            <p>В нашем арсенале огромный перечень выпускаемой продукции. Помимо изделий серийного производства технологическая база предприятия позволяет выполнять индивидуальные заказы на продукцию по чертежам заказчика.
+							Качество всех изделий гарантировано собственной сертифицированной лабораторией.</p>
+                            <p>Большой ассортимент продукции позволит Вам приобрести все необходимые строительные и отделочные материалы по доступным ценам у одного производителя. Собственный парк автотранспорта позволит оперативно доставить ваш заказ.
+							Таким образом, Вы сможете сбалансировать финансовые, временные и транспортные затраты.</p>
+                            <!-- End Main Content -->
+                        </div>
+                        <!-- End Main Column -->
+                    </div>
+                </div>
+            </div>
+            <!-- === END CONTENT === -->	
+                </div>
+            </div>
+	<!-- хлебные крошки -->		
+<div id="content">
+                <div class="container background-white">
+                    <div class="row margin-vert-0">
+                        <!-- накрошил -->
+                        <div class="col-md-12">      
+                                    <pre class="prettyprint lang-html"><small>&nbsp;<a href="#">ГЛАВНАЯ</a>&nbsp;&gt;&nbsp;<a href="#">КАТАЛОГ</a>&nbsp;&gt;&nbsp;<a href="#">ЖБИ</a>&nbsp;&gt;&nbsp;<a href="active">ФБС</a>&nbsp;&gt;&nbsp;<a href="#"><i class="fa-download"></i>СКАЧАТЬ ПРАЙС ЛИСТ</a></small></pre>
+							
+                        </div>
+                        </div>
+						</div>
+						</div>
+	
+<!-- === BEGIN FOOTER === -->
+            <div id="content">
+                <div class="container background-white">
+                    <div class="row margin-vert-5">
+                        <!-- Disclaimer -->
+                        <div class="col-md-4 margin-bottom-20">
+                            <h3 class="margin-bottom-10">Адрес производства</h3>
+                            <p>
+                                <span class="fa-phone">Телефон:</span>++7 (909) 067-90-00 
+                                <br>
+								<span class="fa-phone">Телефон:</span>+7 (34139) 4-06-12 
+                                <br>
+                                <span class="fa-envelope">Email:</span>
+                                <a href="mailto:info@example.com">info@uppmso.ru</a>
+                                <br>
+                                <span class="fa-link">Website:</span>
+                                <a href="http://www.example.com">www.example.com</a>
+                            </p>
+                            <p>Удмуртская Республика,
+                                <br>г.Можга,ул.Устюжанина,д.5
+                                </p>
+                        </div>
+                        <!-- End Disclaimer -->
+                        <!-- Contact Details -->
+                        <div class="col-md-4 margin-bottom-20">
+                            <h3 class="margin-bottom-10">Наш адрес</h3>
+                            <p>
+                                <span class="fa-phone">Телефон:</span>++7 (909) 067-90-00 
+                                <br>
+								<span class="fa-phone">Телефон:</span>+7 (34139) 4-06-12 
+                                <br>
+                                <span class="fa-envelope">Email:</span>
+                                <a href="mailto:info@example.com">info@uppmso.ru</a>
+                                <br>
+                                <span class="fa-link">Website:</span>
+                                <a href="http://www.example.com">www.example.com</a>
+                            </p>
+                            <p>Удмуртская Республика, г.Можга,
+                                <br>ул.Устюжанина,д.5
+                                </p>
+                        </div>
+                        <!-- End Contact Details -->
+                        <!-- Sample Menu -->
+                        <div class="col-md-4 margin-bottom-20">
+                            <h3 class="margin-bottom-10">Sample Menu</h3>
+                            <ul class="menu">
+                                <li>
+                                    <a class="fa-tasks" href="#">Placerat facer possim</a>
+                                </li>
+                                <li>
+                                    <a class="fa-users" href="#">Quam nunc putamus</a>
+                                </li>
+                                <li>
+                                    <a class="fa-signal" href="#">Velit esse molestie</a>
+                                </li>
+                                <li>
+                                    <a class="fa-coffee" href="#">Nam liber tempor</a>
+                                </li>
+                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+                        <!-- End Sample Menu -->
+                    </div>
+                </div>
+            </div>
+    
+	<!--/#CONTACT SECTION-->
+    <div id="footer">
+          &copy 2017 d.petrovich@bk.ru | All Rights Reserved |  <a href="http://one.kontur-life.ru" style="color: #fff" target="_blank">Design by : DeNsKa</a>
+    </div>
+     <!-- FOOTER SECTION END-->  
+</body>
+</html>

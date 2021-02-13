@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,400i');
+.sp-comingsoon {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+}
+.sp-comingsoon body {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  color: #fff;
+  display: table;
+}
+.sp-comingsoon #sp-comingsoon {
+  padding: 50px 0;
+}
+.sp-comingsoon .sp-comingsoon-wrap {
+  background-color: #1c1c1c;
+/*   background-image: url(../assets/img/bg_comingsoon.jpg); */
+  background-position: center;
+  color: #b3b3b3;
+  display: table-cell;
+  vertical-align: middle;
+}
+.sp-comingsoon .sp-comingsoon-wrap .container {
+  max-width: 780px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon {
+  position: relative;
+  padding: 40px 80px;
+  text-align: center;
+  border: 2px solid #fff;
+  margin: 35px 0px 30px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon .sp-comingsoon-title {
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0px 0px 10px;
+  font-size: 22px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon .sp-comingsoon-content {
+  color: #fff;
+  font-weight: 600;
+  margin: 0px 0px 40px;
+  font-size: 18px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon .sp-comingsoon-countdown > div {
+  width: 23%;
+  display: inline-block;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon .sp-comingsoon-countdown .number {
+  background-color: #fff;
+  color: #1c1c1c;
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  line-height: 70px;
+  font-size: 30px;
+  margin: 0px 0px 25px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .content_comingsoon .sp-comingsoon-countdown .string {
+  color: #fff;
+  font-size: 20px;
+  text-transform: capitalize;
+  line-height: 24px;
+}
+.sp-comingsoon .sp-comingsoon-wrap h6 {
+  color: #fff;
+  text-transform: uppercase;
+  margin: 0px 0px 20px;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.sp-comingsoon .sp-comingsoon-wrap .social-icons {
+  display: block;
+  margin-bottom: 25px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .social-icons li {
+  display: inline-block;
+  position: relative;
+  font-family: 'Montserrat', sans-serif;
+}
+.sp-comingsoon .sp-comingsoon-wrap .social-icons li a {
+  display: block;
+  color: #afafaf;
+  margin-right: 6px;
+  background-color: #282828;
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  line-height: 40px;
+}
+.sp-comingsoon .sp-comingsoon-wrap .social-icons li a:hover {
+  background-color: #f5ab36;
+}
+.sp-comingsoon .sp-comingsoon-wrap.has-background {
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+.sp-comingsoon .comingsoon-page-logo {
+  text-align: center;
+}
+.sp-comingsoon .comingsoon-page-logo img {
+  display: inline-block;
+}
+.sp-comingsoon .comingsoon-page-logo .sp-retina-logo {
+  display: none;
+}
+.sp-comingsoon .sp-comingsoon-title {
+  margin-top: 130px;
+  font-size: 42px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.sp-comingsoon .sp-comingsoon-content {
+  font-size: 28px;
+  font-weight: 300;
+}
+.sp-comingsoon .days,
+.sp-comingsoon .hours,
+.sp-comingsoon .minutes,
+.sp-comingsoon .seconds {
+  display: inline-block;
+}
+.sp-comingsoon .days .number,
+.sp-comingsoon .hours .number,
+.sp-comingsoon .seconds .number,
+.sp-comingsoon .minutes .number {
+  width: 115px;
+  height: 120px;
+  line-height: 120px;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 48px;
+  font-weight: bold;
+}
+.sp-comingsoon .days .string,
+.sp-comingsoon .minutes .string,
+.sp-comingsoon .seconds .string,
+.sp-comingsoon .hours .string {
+  display: block;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.btn, .sppb-btn {
+    -webkit-transition: color 400ms, background-color 400ms, border-color 400ms;
+    -o-transition: color 400ms, background-color 400ms, border-color 400ms;
+    transition: color 400ms, background-color 400ms, border-color 400ms;
+	}
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+}
+a {
+  color: #f5ab36;
+  -moz-transition: all 300ms;
+  -o-transition: all 300ms;
+  -webkit-transition: all 300ms;
+  transition: all 300ms;
+}

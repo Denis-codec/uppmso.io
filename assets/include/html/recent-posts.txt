@@ -1,0 +1,44 @@
+<div class="hidden-xs hidden-sm">
+    <div class="panel panel-aqua">
+		<div class="panel-heading">
+            <h4 class="panel-title">СПЕЦПРЕДЛОЖЕНИЕ</h4>
+        </div>
+            <div class="panel-body">
+                <ul class="posts-list margin-top-10">
+                    <li>
+                        <div class="recent-post">
+                            <a href=""><img class="pull-left" src="../assets/img/recent-posts/blok.png" alt=""></a>
+                                <a href="#" class="posts-list-title">Блок керамзитобетонный<br>от 25,00 рублей.</a>
+                                    <span class="recent-post-date">от 25,00 рублей.</span>
+    
+                        </div>
+                            <div class="clearfix"></div>
+                    </li>
+                        <li>
+                            <div class="recent-post">
+                                <a href=""><img class="pull-left" src="../assets/img/recent-posts/Plity-ZhBI.png" alt=""></a>
+									<a href="#" class="posts-list-title">Плита пустотная ПК 63.15-8т</a>
+                                                <span class="recent-post-date">от 9 025,00 рублей.</span>                                            
+                            </div>
+                                <div class="clearfix"></div>
+                        </li>
+                            <li>
+                                <div class="recent-post">
+                                    <a href=""><img class="pull-left" src="../assets/img/recent-posts/kolca-ZhBI.png" alt=""></a>
+                                        <a href="#" class="posts-list-title">Кольца колодезные</a>     
+                                            <span class="recent-post-date">от 1 050,00 рублей.</span>
+                                </div>
+                                    <div class="clearfix"></div>
+                            </li>
+                                <li>
+                                    <div class="recent-post">
+                                        <a href=""><img class="pull-left" src="../assets/img/recent-posts/meshki.png" alt=""></a>
+                                            <a href="#" class="posts-list-title">Сухая строительная смесь в ассортименте</a>        
+                                                <span class="recent-post-date">от 125,00 рублей.</span>   
+                                    </div>
+                                        <div class="clearfix"></div>
+                                </li>
+                </ul>
+            </div>
+    </div>
+</div>

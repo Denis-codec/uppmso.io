@@ -1,0 +1,30 @@
+<tr>	<th>	Продукция	</th>	<th>	Ед.<br>изм.	</th>	<th>	"Размеры, мм<br>L х B х H"	</th>	<th>	"Масса,<br>кг"	</th>	<th>	Цена<br>с НДС	</th>	</tr>
+<tbody>																
+<tr>	<td>	ФБС 6.6.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	560	</td>	<td>	1 165,00	</td>	</tr>
+<tr>	<td>	ФБС 6.4.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	370	</td>	<td>	845,00	</td>	</tr>
+<tr>	<td>	ФБС 6.4.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	180	</td>	<td>	553,00	</td>	</tr>
+<tr>	<td>	ФБС 8.4.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	480	</td>	<td>	1 104,00	</td>	</tr>
+<tr>	<td>	ФБС 8.5.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	590	</td>	<td>	1 319,00	</td>	</tr>
+<tr>	<td>	ФБС 9.6.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	790	</td>	<td>	1 587,00	</td>	</tr>
+<tr>	<td>	ФБС 9.5.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	660	</td>	<td>	1 299,00	</td>	</tr>
+<tr>	<td>	ФБС 9.4.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	530	</td>	<td>	1 063,00	</td>	</tr>
+<tr>	<td>	ФБС 9.3.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	420	</td>	<td>	907,00	</td>	</tr>
+<tr>	<td>	ФБС 9.3.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	200	</td>	<td>	671,00	</td>	</tr>
+<tr>	<td>	ФБС 12.6.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	1 070	</td>	<td>	2 115,00	</td>	</tr>
+<tr>	<td>	ФБС 12.5.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	890	</td>	<td>	1 650,00	</td>	</tr>
+<tr>	<td>	ФБС 12.4.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	710	</td>	<td>	1 424,00	</td>	</tr>
+<tr>	<td>	ФБС 12.3.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	550	</td>	<td>	1 089,00	</td>	</tr>
+<tr>	<td>	ФБС 12.3.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	260	</td>	<td>	793,00	</td>	</tr>
+<tr>	<td>	ФБС 24.6.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	2 190	</td>	<td>	4 070,00	</td>	</tr>
+<tr>	<td>	ФБС 24.5.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	1 830	</td>	<td>	3 184,00	</td>	</tr>
+<tr>	<td>	ФБC 24.4.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	1 460	</td>	<td>	2 708,00	</td>	</tr>
+<tr>	<td>	ФБС 24.3.6	</td>	<td>	шт.	</td>	<td>		</td>	<td>	1 090	</td>	<td>	2 128,00	</td>	</tr>
+<tr>	<td>	ФБС 9.6.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	390	</td>	<td>	898,00	</td>	</tr>
+<tr>	<td>	ФБС 12.6.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	500	</td>	<td>	1 064,00	</td>	</tr>
+<tr>	<td>	ФБС 12.5.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	410	</td>	<td>	916,00	</td>	</tr>
+<tr>	<td>	ФБС 12.4.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	330	</td>	<td>	808,00	</td>	</tr>
+<tr>	<td>	ФБС 24.6.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	1 030	</td>	<td>	2 082,00	</td>	</tr>
+<tr>	<td>	ФБС 24.4.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	700	</td>	<td>	1 548,00	</td>	</tr>
+<tr>	<td>	ФБС 24.3.3	</td>	<td>	шт.	</td>	<td>		</td>	<td>	560	</td>	<td>	1 374,00	</td>	</tr>
+</tbody>																
+															

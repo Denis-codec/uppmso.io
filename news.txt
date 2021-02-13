@@ -1,0 +1,92 @@
+<div id="features-sec" class="container set-pad" data-scroll-reveal="enter from the bottom after 0.2s">
+    <div class="row text-center">
+        <div class="col-lg-8 col-lg-offset-2 col-md-8 col-sm-8 col-md-offset-2 col-sm-offset-2">
+           <p style="color: #33747a;  padding-top: 35px; font-weight: 500; font-size: 16px; line-height: 1.4; font-family: 'Roboto Condensed', sans-serif;"   class="header-line">НОВОСТИ</p> 
+			<p style="font-size: 14px; line-height: 1.4;" >В этой рубрике мы будем освещать</br> самые заметные новости в нашей компании.
+															Следите за обновлениями. </p>
+		</div>
+            
+    </div>
+</div>
+
+<div id="news" data-scroll-reveal="enter from the bottom after 0.2s">
+	<div class="container hidden-xs hidden-sm">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>Мы запустили обновлеенный сайт!</strong></span>
+						<p class="text-info" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">Сегодня, <!-- 01 января 2018 года, -->
+						 мы запустили наш сайт в новом дизайне! Для нас это праздничный день, 
+						 который знаменует завершение периода длительной и кропотливой работы. 
+						 Мы постарались создать сайт...<br><!--  отличительной особенностью которого является новый стильный дизайн и дружелюбный интерфейс, 
+						 удобство пользования которым может оценить любой желающий! --></p>
+						<p><class="disabled" a class="btn btn-info btn-xs" href="#" role="button">читать полностью...»</a></p>
+						
+
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>Обновление сайта!</strong></span>
+						<p class="text-success" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">В новом сайте мы усовершенствовали систему заказов, 
+						 она стала гораздо более интуитивной. Более удобная работа с каталогами изделий. 
+						 Добавлены новые способы...<!--  оплаты. На сайте появился новый раздел, в нем собраны все действующие акции, предлагаемые нами. --></p>
+						<p><class="disabled" a class="btn btn-success btn-xs" href="#" role="button">читать полностью...»</a></p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>На будущее!</strong></span>
+						<p class="text-warning" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">Ну и, конечно, мы не останавливаемся на достигнутом! <br>
+						Эти и многие другие новшества ждут вас на нашем сайте!...<!-- Наша работа с сайтом идет постоянно и, в скором времени, для вас откроется множество других важных и полезных разделов. Следите за нашими новостями! --></p>
+						<p><class="disabled" a class="btn btn-warning btn-xs" href="#" role="button">читать полностью...»</a></p>
+			  </div>
+			</div>
+		</div>
+	</div>
+</div>
+<br>
+<br>
+
+	<div class="container text-center visible-xs visible-sm">
+		<div class="row">
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>Мы запустили обновлеенный сайт!</strong></span>
+						<p class="text-info" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">Сегодня, <!-- 01 января 2018 года, -->
+						 мы запустили наш сайт в новом дизайне! Для нас это праздничный день, 
+						 который знаменует завершение периода длительной и кропотливой работы. 
+						 Мы постарались создать сайт...<br><!--  отличительной особенностью которого является новый стильный дизайн и дружелюбный интерфейс, 
+						 удобство пользования которым может оценить любой желающий! --></p>
+						<p><class="disabled" a class="btn btn-info btn-xs" href="#" role="button">читать полностью...»</a></p>
+						
+
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>Обновление сайта!</strong></span>
+						<p class="text-success" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">В новом сайте мы усовершенствовали систему заказов, 
+						 она стала гораздо более интуитивной. Более удобная работа с каталогами изделий. 
+						 Добавлены новые способы...<!--  оплаты. На сайте появился новый раздел, в нем собраны все действующие акции, предлагаемые нами. --></p>
+						<p><class="disabled" a class="btn btn-success btn-xs" href="#" role="button">читать полностью...»</a></p>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="news-item">
+				  <time datetime="Дата">01/05/2018</time>
+						<span class="title"><strong>На будущее!</strong></span>
+						<p class="text-warning" style="font-size: 13px; padding-top: 15px; line-height: 1.4;">Ну и, конечно, мы не останавливаемся на достигнутом! <br>
+						Эти и многие другие новшества ждут вас на нашем сайте!...<!-- Наша работа с сайтом идет постоянно и, в скором времени, для вас откроется множество других важных и полезных разделов. Следите за нашими новостями! --></p>
+						<p><class="disabled" a class="btn btn-warning btn-xs" href="#" role="button">читать полностью...»</a></p>
+			  </div>
+			</div>
+		</div>
+	</div>
+</div>
+		
